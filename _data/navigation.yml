@@ -1,12 +1,16 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: /about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Mission & Ministry"
+    url: /m&m/
+  - title: "Partner / Support"
+    url: /partner/
+  - title: "Contact"
+    url: /contact/
+  - title: "Statement of Faith"
+    url: /statementoffaith/
+  - title: "Ministry Updates (Blog)"
+    url: /blog/
+  - title: "Gallery"
+    url: /gallery/
