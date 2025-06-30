@@ -8,7 +8,7 @@ header:
   actions:
     - label: "<i class='fas fa-download'></i> Install now"
       url: "/docs/quick-start-guide/"
-excerpt:
+excerpt: >
   <font color="black"; text-shadow: white 0 -2px><b>Hi there, and thank you for visiting!</b><br><br>  
   My heart is devoted to sharing the love of Jesus with the world. Whether it’s on the streets, in churches, or among the forgotten and hurting, I believe in meeting people with compassion and truth, through the power of the Holy Spirit.<br><br>  
   My mission is simple but urgent:<br>
