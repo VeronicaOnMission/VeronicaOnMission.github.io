@@ -1,13 +1,13 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
   - title: "Mission & Ministry"
     url: /m&m/
   - title: "Partner / Support"
     url: /partner/
   - title: "Contact"
     url: /contact/
+  - title: "About"
+    url: /about/
   - title: "Statement of Faith"
     url: /statementoffaith/
   - title: "Ministry Updates (Blog)"
