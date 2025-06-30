@@ -9,7 +9,11 @@ header:
     - label: "<i class='fas fa-download'></i> Install now"
       url: "/docs/quick-start-guide/"
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
+  Hi there, and thank you for visiting!.<br />
+  My heart is devoted to sharing the love of Jesus with the world. Whether it’s on the streets, in churches, or among the forgotten and hurting, I believe in meeting people with compassion and truth, through the power of the Holy Spirit.<br />
+  My mission is simple but urgent: <br />
+  *I aim to carry the message of salvation to all people through evangelism, discipleship, and the demonstration of God’s love in action.* <br />
+  I invite you to explore my website, learn more about the work God is doing through this ministry, and join me in making an eternal impact
   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.27.1">Latest release v4.27.1</a></small>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
