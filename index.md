@@ -9,7 +9,7 @@ header:
     - label: "<i class='fas fa-download'></i> Install now"
       url: "/docs/quick-start-guide/"
 excerpt: >
-  <font color="black"; text-shadow: white 0 -2px><b>Hi there, and thank you for visiting!</b><br><br>  
+  <font color="black"; style="text-shadow: white 0 -2px";><b>Hi there, and thank you for visiting!</b><br><br>  
   My heart is devoted to sharing the love of Jesus with the world. Whether it’s on the streets, in churches, or among the forgotten and hurting, I believe in meeting people with compassion and truth, through the power of the Holy Spirit.<br><br>  
   My mission is simple but urgent:<br>
   *I aim to carry the message of salvation to all people through evangelism, discipleship, and the demonstration of God’s love in action.*<br><br> 
