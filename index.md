@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/homepage.jpg
+  overlay_image: /assets/images/tealblur.jpg
   actions:
     - label: "<i class='fas fa-download'></i> Donate Now"
       url: "/partner/"
