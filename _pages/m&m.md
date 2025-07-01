@@ -11,7 +11,7 @@ author_profile: true
 - Albuquerque, NM
 - Mission trips to various U.S. cities & International locations
 
-<figure style="width: 400px" class="align-left">
+<figure style="width: 375px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/onesunflower.jpg" alt="">
 </figure>
 
