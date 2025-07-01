@@ -1,7 +1,6 @@
 ---
 layout: splash
 permalink: /partner/
-hidden: true
 header:
   overlay_image: /assets/images/lavenderblur.png
   actions:
