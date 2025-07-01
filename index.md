@@ -23,16 +23,16 @@ feature_row:
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/redflower.png
+  - image_path: /assets/images/redflower.npg
     alt: "fully responsive"
     title: "Contact me"
     excerpt: "I'm available on these and that."
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
+  - image_path: /assets/images/yellowflowerhand.jpg
     alt: "100% free"
-    title: "Have an idea?"
+    title: "Need prayer?"
     excerpt: "Word to your mother because the Word is your Father"
     url: "/docs/license/"
     btn_class: "btn--primary"
