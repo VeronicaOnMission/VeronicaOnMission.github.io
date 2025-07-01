@@ -3,8 +3,9 @@ layout: single
 permalink: /about/
 title: "About"
 author_profile: true
-
 ---
+---
+
 ## Testimony & Calling
 
 > When I was a child, I often wrestled with fear and anxiety—feelings that stemmed from circumstances beyond my control. My parents were divorced, and my father’s military service meant constant change and uncertainty. One day, a teacher shared something that would change my life forever. She told me I didn’t have to carry the weight of fear and anxiety anymore. She introduced me to Jesus—the One who offers peace, freedom, and healing. That day, I met Jesus, and my life was forever transformed.
