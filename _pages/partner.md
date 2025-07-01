@@ -5,7 +5,6 @@ title: Partner and Support
 tagline: "**Every donation directly fuels the evangelism mission.** Your generous support helps provide Bibles, gospel tracts, travel expenses, care packages for the homeless, and essential outreach supplies—ensuring the message of salvation can go farther and touch more lives."
 header:
   overlay_image: /assets/images/lavenderblur.png
-body:
   actions:
     - label: "PayPal: @veronicadconner"
       url: "https://paypal.me/veronicadconner"
@@ -14,4 +13,6 @@ body:
     - label: "Venmo: $Veronica-Conner-2"
       url: "https://venmo.com/Veronica-Conner-2"
 ---
+[PayPal: @veronicadconner](https://paypal.me/veronicadconner){: .btn .btn--info}
+
 <b>Thank you for partnering with me for the spreading of the Good News!</b>
