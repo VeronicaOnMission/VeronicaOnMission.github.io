@@ -1,9 +1,12 @@
 ---
-layout: single
+layout: splash
 permalink: /m&m/
 title: "Mission & Ministry"
 author_profile: true
----
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/pinkcactus.jpg
+excerpt: > excerpt
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/pinkcactus.jpg){: .align-center}
 

@@ -4,12 +4,14 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/tealblur2.png
+  overlay_image: /assets/images/lavenderblur.png
   actions:
-    - label: "<i class='fas fa-dollar-sign'></i> Donate Now"
-      url: "/partner/"
+    - label: "<i class='fas fa-PayPal'></i> PayPal: @veronicadconner"
+      url: "https://paypal.me/veronicadconner"
+    - label: "<i class='fas fa-CashApp'></i> Cash App: $veronicadconner"
+      url: "https://cash.app/$veronicadconner"
 excerpt: >
-  <b>Hi there, and thank you for visiting!</b><br><br>  
+  <b>Thank you for partnering with me for the spreading of the Good News!</b><br><br>  
   My heart is devoted to sharing the love of Jesus with the world. Whether it’s on the streets, in churches, or among the forgotten and hurting, I believe in meeting people with compassion and truth, through the power of the Holy Spirit.<br><br>  
   My mission is simple but urgent:<br>
   *I aim to carry the message of salvation to all people through evangelism, discipleship, and the demonstration of God’s love in action.*<br><br> 
