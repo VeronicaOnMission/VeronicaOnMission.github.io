@@ -23,7 +23,7 @@ feature_row:
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
+  - image_path: /assets/images/redflower.png
     alt: "fully responsive"
     title: "Contact me"
     excerpt: "I'm available on these and that."
