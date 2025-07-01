@@ -1,4 +1,5 @@
 ---
+layout: splash
 permalink: /m&m/
 author_profile: true
 title: "Mission & Ministry"
