@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: wide
 permalink: /partner/
 header:
   overlay_image: /assets/images/lavenderblur.png
