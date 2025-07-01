@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Veronica Conner"
   avatar           : "/assets/images/francethumb.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Short bio"
+  bio              : "Lead me in Your truth and teach me, For You are the God of my salvation"
   location         : "Albuquerque, NM"
   email            :
   links:
@@ -134,6 +134,9 @@ author:
     - label: "TikTok"
       icon: "fab fa-fw fa-tiktok"
       url: "https://www.tiktok.com/@veronicaconner5"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@veronicaconner9906"
 
 # Site Footer
 footer:
