@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Veronica Conner"
   avatar           : "/assets/images/francethumb.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Lead me in Your truth and teach me, For You are the God of my salvation"
+  bio              : "Lead me in Your truth and teach me, <br> For You are the God of my salvation.<br>Psalm 25:5"
   location         : "Albuquerque, NM"
   email            :
   links:
