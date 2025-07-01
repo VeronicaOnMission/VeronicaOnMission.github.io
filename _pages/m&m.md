@@ -1,5 +1,5 @@
 ---
-layout: wide
+layout: default
 permalink: /m&m/
 title: "Mission & Ministry"
 author_profile: true
