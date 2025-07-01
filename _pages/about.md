@@ -1,4 +1,5 @@
 ---
+layout: home
 permalink: /about/
 title: "About"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
@@ -28,13 +29,13 @@ Today, I am finally stepping into the call God placed on my life so many years a
 ---
 
 ## Values
--Communicate the message of Jesus in a way that is understandable and unwavering
--Train and empower Christians to confidently and effectively share their faith
--Intentionally support spiritual growth and long-term discipleship 
--Reach a defined number of people annually 
--Goal: Share the Gospel with 500 people in the next 12 months
--Build relationships with churches, ministries, and organizations to expand impact and reach
--Engage in consistent prayer with faith that God will act and guide the ministry
+- Communicate the message of Jesus in a way that is understandable and unwavering
+- Train and empower Christians to confidently and effectively share their faith
+- Intentionally support spiritual growth and long-term discipleship 
+- Reach a defined number of people annually 
+- Goal: Share the Gospel with 500 people in the next 12 months
+- Build relationships with churches, ministries, and organizations to expand impact and reach
+- Engage in consistent prayer with faith that God will act and guide the ministry
 
 ## Vision
 1. Local Impact – see lives in Albuquerque transformed through the Truth of the Gospel
