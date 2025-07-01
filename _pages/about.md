@@ -5,7 +5,6 @@ title: "About"
 author_profile: true
 
 ---
-
 ## Testimony & Calling
 
 > When I was a child, I often wrestled with fear and anxiety—feelings that stemmed from circumstances beyond my control. My parents were divorced, and my father’s military service meant constant change and uncertainty. One day, a teacher shared something that would change my life forever. She told me I didn’t have to carry the weight of fear and anxiety anymore. She introduced me to Jesus—the One who offers peace, freedom, and healing. That day, I met Jesus, and my life was forever transformed.
@@ -17,7 +16,6 @@ author_profile: true
 > Today, I am finally stepping into the call God placed on my life so many years ago. And with all my heart, I praise Him—because even when I ran, **He never gave up on me**.
 
 ---
-
 ## Values
 - Communicate the message of Jesus in a way that is understandable and unwavering
 - Train and empower Christians to confidently and effectively share their faith
@@ -27,6 +25,7 @@ author_profile: true
 - Build relationships with churches, ministries, and organizations to expand impact and reach
 - Engage in consistent prayer with faith that God will act and guide the ministry
 
+---
 ## Vision
 1. Local Impact – see lives in Albuquerque transformed through the Truth of the Gospel
 2. Raise a Generation of Witnesses – equip and activate believers of all ages to live as bold, Spirit-led witnesses in their everyday lives
