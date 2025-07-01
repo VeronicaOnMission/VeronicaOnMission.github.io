@@ -11,12 +11,13 @@ author_profile: true
 - Albuquerque, NM
 - Mission trips to various U.S. cities & International locations
 
+### Scripture that inspires my work
+---
+
 <figure style="width: 375px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/onesunflower.jpg" alt="">
 </figure>
 
-### Scripture that inspires my work
----
 
 > **1 Corinthians 9:16** <br> "For if I preach the Good News, I have nothing to boast about, for necessity is laid on me; but woe is to me if I don't preach the Good News."
 
