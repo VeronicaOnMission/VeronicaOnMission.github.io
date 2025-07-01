@@ -26,7 +26,7 @@ url                      : "https://veronicaonmission.github.io" # the base host
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/sunsetblur.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Veronica on Mission" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Veronica Conner"
   avatar           : "/assets/images/francethumb.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Lead me in Your truth and teach me, <br> For You are the God of my salvation.<br>Psalm 25:5"
+  bio              : "For if I preach the Good News, I have nothing to boast about, for necessity is laid on me; but woe is to me if I don’t preach the Good News.<br> **1 Corinthians 9:16**"
   location         : "Albuquerque, NM"
   email            :
   links:
