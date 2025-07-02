@@ -10,7 +10,6 @@ header:
 [CashApp: $veronicadconner](https://cash.app/$veronicadconner){: .btn .btn--info}
 [Venmo: @Veronica-Conner-2](https://venmo.com/Veronica-Conner-2){: .btn .btn--info}
 
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -33,14 +32,11 @@ header:
 </head>
 <body>
 
-<h2>Image Text Blocks</h2>
-<p>How to place text blocks over an image:</p>
-
 <div class="container">
-  <img src="/assets/images/papyrus1.jpg" alt="Nature" style="width:100%;">
+  <img src="/assets/images/papyrus1.jpg" alt="" style="width:100%; length:50%;">
   <div class="text-block">
-    <h4>Nature</h4>
-    <p>What a beautiful sunrise</p>
+    <h4>Heading</h4>
+    <p>Paragraph</p>
   </div>
 </div>
 
