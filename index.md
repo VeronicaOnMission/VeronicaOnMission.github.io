@@ -6,7 +6,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/tealblur2.png
   actions:
-    - label: "<i class='fas fa-dollar-sign'></i> Donate Now"
+    - label: "<i class='fas fa-dollar-sign'></i> Partner Now"
       url: "/partner/"
 excerpt: >
   <b>Hi there, and thank you for visiting!</b><br><br>  

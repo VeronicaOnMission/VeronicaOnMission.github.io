@@ -14,5 +14,10 @@ header:
       url: "https://venmo.com/Veronica-Conner-2"
 ---
 [PayPal: @veronicadconner](https://paypal.me/veronicadconner){: .btn .btn--info}
+[CashApp: $veronicadconner](https://cash.app/$veronicadconner){: .btn .btn--info}
+[Venmo: @Veronica-Conner-2](https://venmo.com/Veronica-Conner-2){: .btn .btn--info}
 
 <b>Thank you for partnering with me for the spreading of the Good News!</b>
+
+
+<iframe width="560" height="315" src="https://www.instagram.com/reel/DAjKSTkPuS7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
