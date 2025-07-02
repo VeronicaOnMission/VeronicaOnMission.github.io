@@ -9,10 +9,3 @@ header:
 [PayPal: @veronicadconner](https://paypal.me/veronicadconner){: .btn .btn--info}
 [CashApp: $veronicadconner](https://cash.app/$veronicadconner){: .btn .btn--info}
 [Venmo: @Veronica-Conner-2](https://venmo.com/Veronica-Conner-2){: .btn .btn--info}
-
-<div class="container">
-	<img src="/assets/images/papyrus.png" alt="" style="width:100%;">
-	<div class="text-block">
-		<h4>Thank you for partnering with me for the spreading of the Good News!</h4>
-	</div>
-</div>
