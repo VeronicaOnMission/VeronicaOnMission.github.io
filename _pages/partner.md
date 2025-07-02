@@ -20,4 +20,4 @@ header:
 <b>Thank you for partnering with me for the spreading of the Good News!</b>
 
 
-<iframe width="560" height="315" src="https://www.instagram.com/reel/DAjKSTkPuS7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.instagram.com/reel/DAjKSTkPuS7/embed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
