@@ -10,8 +10,7 @@ header:
 [CashApp: $veronicadconner](https://cash.app/$veronicadconner){: .btn .btn--info}
 [Venmo: @Veronica-Conner-2](https://venmo.com/Veronica-Conner-2){: .btn .btn--info}
 
-<div style="text-align: center;">
-  <img src="\assets\images\papyrus.jpg" alt="<b>Thank you for partnering with me for the spreading of the Good News!</b>" style="display: block; margin: 0 auto;">
+<div class="image">
+	<img src="/assets/images/papyrus.png" alt="" />
+	<h2><b>Thank you for partnering with me for the spreading of the Good News!</h2>
 </div>
-
-
