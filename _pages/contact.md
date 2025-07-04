@@ -23,6 +23,5 @@ author_profile: true
 $('#gform').on('submit', function(e) {
   $('#gform *').fadeOut(2000);
   $('#gform').prepend('Your information has been submitted...');
-  $('#gform').trigger("reset");
   });
 </script>
