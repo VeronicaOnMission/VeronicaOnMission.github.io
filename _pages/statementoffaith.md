@@ -13,10 +13,11 @@ author_profile: true
 .container {
   position: relative;
   font-family: Arial;
+  object-fit: contain;
 }
 
 .text-block {
-  position: absolute;
+  position: relative;
   top: 20px;
   center: 20px;
   color: black;
@@ -27,8 +28,8 @@ author_profile: true
 </head>
 <body>
 
-<div class="container">
-  <img src="/assets/images/papyrus2.jpg" alt="" style="width:100%;">
+<div class="container justify-content-center">
+  <img src="/assets/images/papyrus2.jpg" alt="" style="width:100%;  ">
   <div class="text-block">
 	<h4>The Bible</h4>
 	<p>I believe the Bible is the inspired, infallible, and authoritative Word of God. It is the final authority for faith, life, and godliness (2 Timothy 3:16–17).</p>
