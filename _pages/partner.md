@@ -1,22 +1,11 @@
 ---
-layout: splash
+layout: single
 permalink: /partner/
-hidden: true
 title: Partner and Support
+tagline: "**Every donation directly fuels the evangelism mission.** <br>Your generous support helps provide Bibles, gospel tracts, travel expenses, care packages for the homeless, and essential outreach supplies—ensuring the message of salvation can go farther and touch more lives."<br>
 header:
   overlay_image: /assets/images/headerrightflower.png
   overlay_filter: 0.15
-  
-  actions:
-	- label: "PayPal: @veronicadconner"
-	url: "https://paypal.me/veronicadconner"
-	- label: "CashApp: $veronicadconner"
-	url: "https://cash.app/$veronicadconner"
-	- label: "Venmo: @Veronica-Conner-2"
-	url: "https://venmo.com/Veronica-Conner-2"
-excerpt: >
-"**Every donation directly fuels the evangelism mission.** <br>Your generous support helps provide Bibles, gospel tracts, travel expenses, care packages for the homeless, and essential outreach supplies—ensuring the message of salvation can go farther and touch more lives."<br>
-
 feature_row:
   - image_path: /assets/images/messagecards.jpg
   - image_path: /assets/images/jesussaves.jpg
