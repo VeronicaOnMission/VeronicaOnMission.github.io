@@ -7,14 +7,14 @@ header:
   overlay_image: /assets/images/headerrightflower.png
   overlay_filter: 0.15
 
+[PayPal: @veronicadconner](https://paypal.me/veronicadconner){: .btn .btn--info}
+[CashApp: $veronicadconner](https://cash.app/$veronicadconner){: .btn .btn--info}
+[Venmo: @Veronica-Conner-2](https://venmo.com/Veronica-Conner-2){: .btn .btn--info}
+
 feature_row:
   - image_path: /assets/images/messagecards.jpg
   - image_path: /assets/images/jesussaves.jpg
   - image_path: /assets/images/braceletbump.jpg
 ---
-
-[PayPal: @veronicadconner](https://paypal.me/veronicadconner){: .btn .btn--info}
-[CashApp: $veronicadconner](https://cash.app/$veronicadconner){: .btn .btn--info}
-[Venmo: @Veronica-Conner-2](https://venmo.com/Veronica-Conner-2){: .btn .btn--info}
 
 {% include feature_row %}
