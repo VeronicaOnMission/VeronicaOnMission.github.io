@@ -27,8 +27,8 @@ Engage in consistent prayer with faith that God will act and guide the ministry<
 
 ---
 ## Vision
-<center>Local Impact – see lives in Albuquerque transformed through the Truth of the Gospel</center><br>
-<center>Raise a Generation of Witnesses – equip and activate believers of all ages to live as bold, Spirit-led witnesses in their everyday lives</center><br>
+<center>Local Impact – see lives in Albuquerque transformed through the Truth of the Gospel<br>
+<center>Raise a Generation of Witnesses – equip and activate believers of all ages to live as bold, Spirit-led witnesses in their everyday lives<br>
 <center>Kingdom Carrier – carry the presence and power of God into the city and streets – bringing healing, deliverance and salvation to a broken world</center>
 {: .notice--success}
 
