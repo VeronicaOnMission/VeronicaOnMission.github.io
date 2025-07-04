@@ -18,11 +18,11 @@ author_profile: true
 ---
 ## Values
 <p align="center">Communicate the message of Jesus in a way that is understandable and unwavering<br>
-<p align="center">Train and empower Christians to confidently and effectively share their faith<br>
-<p align="center">Intentionally support spiritual growth and long-term discipleship<br>
-<p align="center">Yearly Goal: Share the Gospel with 500 people in the next 12 months<br>
-<p align="center">Build relationships with churches, ministries, and organizations to expand impact and reach<br>
-<p align="center">Engage in consistent prayer with faith that God will act and guide the ministry</p>
+Train and empower Christians to confidently and effectively share their faith<br>
+Intentionally support spiritual growth and long-term discipleship<br>
+Yearly Goal: Share the Gospel with 500 people in the next 12 months<br>
+Build relationships with churches, ministries, and organizations to expand impact and reach<br>
+Engage in consistent prayer with faith that God will act and guide the ministry</p>
 {: .notice--info}
 
 ---
@@ -31,4 +31,5 @@ author_profile: true
 <center>Raise a Generation of Witnesses – equip and activate believers of all ages to live as bold, Spirit-led witnesses in their everyday lives</center><br>
 <center>Kingdom Carrier – carry the presence and power of God into the city and streets – bringing healing, deliverance and salvation to a broken world</center>
 {: .notice--success}
+
 ---
