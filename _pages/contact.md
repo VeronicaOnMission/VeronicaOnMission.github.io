@@ -7,7 +7,7 @@ author_profile: true
 
 <form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSeQZHbJYkdtSrCMRMuc1LDtKgmrR6Jfol1KUzdZRjIIbIzQMQ/formResponse?" target="hidden_iframe" onsubmit="submitted=true;">
   <fieldset>
-    <legend>Please contact me with any questions through one of my social links in the sidebar, or this form as needed.</legend>
+    <legend>You can contact me on multiple social media platforms by checking this website's sidebar. This web form is also available for convenience. Please allow 1-2 days for a response.</legend>
     Name: <input type="text" size="30" name="entry.1166045863"><br>
     Email: <input type="text" size="30" name="entry.720425147"><br>
     Message: <textarea name="entry.220754968"></textarea>
@@ -22,6 +22,6 @@ author_profile: true
 <script type="text/javascript">
 $('#gform').on('submit', function(e) {
   $('#gform *').fadeOut(2000);
-  $('#gform').prepend('Your information has been submitted...');
+  $('#gform').prepend('Thank you for reaching out, your information has been submitted... :D');
   });
 </script>
