@@ -5,7 +5,7 @@ title: "Contact"
 author_profile: true
 ---
 
-<form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSeQZHbJYkdtSrCMRMuc1LDtKgmrR6Jfol1KUzdZRjIIbIzQMQ/formResponse?" target="hidden_iframe" onsubmit="submitted=true";>
+<form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSeQZHbJYkdtSrCMRMuc1LDtKgmrR6Jfol1KUzdZRjIIbIzQMQ/formResponse?" target="hidden_iframe" onsubmit="submitted=true;">
   <fieldset>
     <legend>Please contact me with any questions through one of my social links in the sidebar, or this form as needed.</legend>
     Name: <input type="text" size="30" name="entry.1166045863"><br>
