@@ -17,9 +17,8 @@ author_profile: true
 }
 
 .text-block {
-  position: relative;
+  position: absolute;
   top: 20px;
-  center: 20px;
   color: black;
   padding-left: 20px;
   padding-right: 20px;
