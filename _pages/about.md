@@ -7,18 +7,14 @@ author_profile: true
 ---
 
 ## Testimony & Calling
-
-<div style="background-color: mix(#fff, #393e46, 75%);">
-
 > When I was a child, I often wrestled with fear and anxiety—feelings that stemmed from circumstances beyond my control. My parents were divorced, and my father’s military service meant constant change and uncertainty. One day, a teacher shared something that would change my life forever. She told me I didn’t have to carry the weight of fear and anxiety anymore. She introduced me to Jesus—the One who offers peace, freedom, and healing. That day, I met Jesus, and my life was forever transformed.
 
-> When I was just 14 years old, I felt a clear and undeniable call from God to serve in missions. I knew in my heart that He was speaking directly to me. Throughout my teenage years, I earnestly pursued that calling. But in my early twenties, I drifted away from it. It was during that time that I met my now-husband. After we were married, we both surrendered our lives fully back to God—but even then, I still hesitated to embrace the call He had placed on my life.
+> At just 14 years old, I felt a clear and undeniable call from God to serve in missions. I knew in my heart that He was speaking directly to me. Throughout my teenage years, I earnestly pursued that calling. But in my early twenties, I drifted away from it. It was during that time that I met my now-husband. After we were married, we both surrendered our lives fully back to God—but even then, I still hesitated to embrace the call He had placed on my life.
 
 > For many years, I devoted myself to being a homemaker, raising our two beautiful daughters, and working as a social worker. I also participated in several short-term mission trips over the past decade. But it was a mission trip in 2023 that changed everything. Something shifted in me. My relationship with God deepened, and the Holy Spirit ignited a fresh passion within me to reach the lost with the love of Christ.
 
 > Today, I am finally stepping into the call God placed on my life so many years ago. And with all my heart, I praise Him—because even when I ran, **He never gave up on me**.
 
-</div>
 ---
 ## Values
 Communicate the message of Jesus in a way that is understandable and unwavering<br>
