@@ -17,10 +17,10 @@ author_profile: true
 
 ---
 ## Values
-<p align="center">Communicate the message of Jesus in a way that is understandable and unwavering<br>
+<p>Communicate the message of Jesus in a way that is understandable and unwavering<br>
 Train and empower Christians to confidently and effectively share their faith<br>
 Intentionally support spiritual growth and long-term discipleship<br>
-Yearly Goal: Share the Gospel with 500 people in the next 12 months<br>
+Goal: Share the Gospel with 500 people in the next 12 months<br>
 Build relationships with churches, ministries, and organizations to expand impact and reach<br>
 Engage in consistent prayer with faith that God will act and guide the ministry</p>
 {: .notice--info}
