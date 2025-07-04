@@ -3,9 +3,13 @@ layout: single
 permalink: /partner/
 title: Partner and Support
 tagline: "**Every donation directly fuels the evangelism mission.** <br>Your generous support helps provide Bibles, gospel tracts, travel expenses, care packages for the homeless, and essential outreach supplies—ensuring the message of salvation can go farther and touch more lives."<br>
-[PayPal: @veronicadconner](https://paypal.me/veronicadconner){: .btn .btn--info}
-[CashApp: $veronicadconner](https://cash.app/$veronicadconner){: .btn .btn--info}
-[Venmo: @Veronica-Conner-2](https://venmo.com/Veronica-Conner-2){: .btn .btn--info}
+actions:
+	- label: "PayPal: @veronicadconner"
+	url: "https://paypal.me/veronicadconner"
+	- label: "CashApp: $veronicadconner"
+	url: "https://cash.app/$veronicadconner"
+	- label: "Venmo: @Veronica-Conner-2"
+	url: "https://venmo.com/Veronica-Conner-2"
 
 header:
   overlay_image: /assets/images/headerrightflower.png
@@ -16,5 +20,9 @@ feature_row:
   - image_path: /assets/images/jesussaves.jpg
   - image_path: /assets/images/braceletbump.jpg
 ---
+
+[PayPal: @veronicadconner](https://paypal.me/veronicadconner){: .btn .btn--info}
+[CashApp: $veronicadconner](https://cash.app/$veronicadconner){: .btn .btn--info}
+[Venmo: @Veronica-Conner-2](https://venmo.com/Veronica-Conner-2){: .btn .btn--info}
 
 {% include feature_row %}
