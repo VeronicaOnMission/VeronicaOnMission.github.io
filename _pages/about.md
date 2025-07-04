@@ -24,13 +24,15 @@ author_profile: true
 - Reach a defined number of people annually 
 - Goal: Share the Gospel with 500 people in the next 12 months
 - Build relationships with churches, ministries, and organizations to expand impact and reach
-- Engage in consistent prayer with faith that God will act and guide the ministry
+
+Engage in consistent prayer with faith that God will act and guide the ministry
 {: .notice--info}
 
 ---
 ## Vision
 1. Local Impact – see lives in Albuquerque transformed through the Truth of the Gospel
 2. Raise a Generation of Witnesses – equip and activate believers of all ages to live as bold, Spirit-led witnesses in their everyday lives
+
 3. Kingdom Carrier – carry the presence and power of God into the city and streets – bringing healing, deliverance and salvation to a broken world 
 {: .notice--success}
 ---
