@@ -21,19 +21,18 @@ author_profile: true
 </div>
 ---
 ## Values
-Communicate the message of Jesus in a way that is understandable and unwavering
-Train and empower Christians to confidently and effectively share their faith
-Intentionally support spiritual growth and long-term discipleship 
-Reach a defined number of people annually 
-Goal: Share the Gospel with 500 people in the next 12 months
-Build relationships with churches, ministries, and organizations to expand impact and reach
-Engage in consistent prayer with faith that God will act and guide the ministry
+Communicate the message of Jesus in a way that is understandable and unwavering<br>
+Train and empower Christians to confidently and effectively share their faith<br>
+Intentionally support spiritual growth and long-term discipleship<br>
+Yearly Goal: Share the Gospel with 500 people in the next 12 months<br>
+Build relationships with churches, ministries, and organizations to expand impact and reach<br>
+Engage in consistent prayer with faith that God will act and guide the ministry<br>
 {: .notice--info}
 
 ---
 ## Vision
-Local Impact – see lives in Albuquerque transformed through the Truth of the Gospel
-Raise a Generation of Witnesses – equip and activate believers of all ages to live as bold, Spirit-led witnesses in their everyday lives
-Kingdom Carrier – carry the presence and power of God into the city and streets – bringing healing, deliverance and salvation to a broken world 
+Local Impact – see lives in Albuquerque transformed through the Truth of the Gospel<br>
+Raise a Generation of Witnesses – equip and activate believers of all ages to live as bold, Spirit-led witnesses in their everyday lives<br>
+Kingdom Carrier – carry the presence and power of God into the city and streets – bringing healing, deliverance and salvation to a broken world<br>
 {: .notice--success}
 ---
