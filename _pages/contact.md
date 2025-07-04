@@ -5,12 +5,14 @@ title: "Contact"
 author_profile: true
 ---
 
-<form method="post" name="myemailform" action="/_php/form-to-email.php">
+<form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSeQZHbJYkdtSrCMRMuc1LDtKgmrR6Jfol1KUzdZRjIIbIzQMQ/formResponse?" target="hidden_iframe" onsubmit"submitted=true;">
   <fieldset>
-    <legend>Description</legend>
-    Name: <input type="text" size="30"><br>
-    Email: <input type="text" size="30"><br>
-    Message: <textarea name="message"></textarea>
+    <legend>Please contact me with any questions through one of my social links in the sidebar, or this form as needed.</legend>
+    Name: <input type="text" size="30" name="entry.1166045863"><br>
+    Email: <input type="text" size="30" name="entry.720425147"><br>
+    Message: <textarea name="entry.220754968"></textarea>
 	<input type="submit" name='submit' value="Submit Form">
   </fieldset>
 </form>
+
+<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
