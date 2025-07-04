@@ -21,8 +21,8 @@ author_profile: true
 <script type="text/javascript">var submitted=false;</script>
 <script type="text/javascript">
 $('#gform').on('submit', function(e) {
-  $('#gform *').fadeOut(2000);
   $('#gform').reset();
-  $('#gform').prepend('Your information has been submitted...');
+  $('#gform *').fadeOut(2000);
+  $('#gform').append('Your information has been submitted...');
   });
 </script>
