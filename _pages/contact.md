@@ -22,6 +22,6 @@ author_profile: true
 <script type="text/javascript">
 $('#gform').on('submit', function(e) {
   $('#gform').prepend('Your information has been submitted...');
-  $('#gform').reset()
+  $('#gform').trigger("reset");
   });
 </script>
