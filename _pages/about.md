@@ -6,8 +6,6 @@ author_profile: true
 ---
 ---
 
-blockquote { background-color: lightgrey; }
-
 ## Testimony & Calling
 > When I was a child, I often wrestled with fear and anxiety—feelings that stemmed from circumstances beyond my control. My parents were divorced, and my father’s military service meant constant change and uncertainty. One day, a teacher shared something that would change my life forever. She told me I didn’t have to carry the weight of fear and anxiety anymore. She introduced me to Jesus—the One who offers peace, freedom, and healing. That day, I met Jesus, and my life was forever transformed.
 
@@ -19,11 +17,11 @@ blockquote { background-color: lightgrey; }
 
 ---
 ## Values
-<p align="center">Communicate the message of Jesus in a way that is understandable and unwavering</p>
-<p align="center">Train and empower Christians to confidently and effectively share their faith</p>
-<p align="center">Intentionally support spiritual growth and long-term discipleship</p>
-<p align="center">Yearly Goal: Share the Gospel with 500 people in the next 12 months</p>
-<p align="center">Build relationships with churches, ministries, and organizations to expand impact and reach</p>
+<p align="center">Communicate the message of Jesus in a way that is understandable and unwavering<br>
+<p align="center">Train and empower Christians to confidently and effectively share their faith<br>
+<p align="center">Intentionally support spiritual growth and long-term discipleship<br>
+<p align="center">Yearly Goal: Share the Gospel with 500 people in the next 12 months<br>
+<p align="center">Build relationships with churches, ministries, and organizations to expand impact and reach<br>
 <p align="center">Engage in consistent prayer with faith that God will act and guide the ministry</p>
 {: .notice--info}
 
@@ -31,6 +29,6 @@ blockquote { background-color: lightgrey; }
 ## Vision
 <center>Local Impact – see lives in Albuquerque transformed through the Truth of the Gospel</center><br>
 <center>Raise a Generation of Witnesses – equip and activate believers of all ages to live as bold, Spirit-led witnesses in their everyday lives</center><br>
-<center>Kingdom Carrier – carry the presence and power of God into the city and streets – bringing healing, deliverance and salvation to a broken world</center><br>
+<center>Kingdom Carrier – carry the presence and power of God into the city and streets – bringing healing, deliverance and salvation to a broken world</center>
 {: .notice--success}
 ---
