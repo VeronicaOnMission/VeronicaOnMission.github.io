@@ -7,19 +7,6 @@ tagline: "**Every donation directly fuels the evangelism mission.** <br>Your gen
 header:
   overlay_image: /assets/images/rightflower.jpg
   overlay_filter: 0.15
-gallery:
-  - url: /assets/images/messagecards.jpg
-	image_path: /assets/images/messagecards_th.jpg
-	alt: "message cards"
-    title: "Encouring handwritten messages on the back of Bible verse cards"
-  - url: /assets/images/jesussaves.jpg
-	image_path: /assets/images/jesussaves_th.jpg
-	alt: "bracelet bump"
-    title: "Veronica boldly holding a sign about the Savior"
-  - url: /assets/images/braceletbump.jpg
-	image_path: /assets/images/braceletbump_th.jpg
-	alt: "bracelet bump"
-    title: "Handmade bracelets"
 ---
 
 [PayPal: @veronicadconner](https://paypal.me/veronicadconner){: .btn .btn--info .btn--large}
@@ -30,11 +17,9 @@ gallery:
 
 ---
 
-{% include gallery caption="Some photos from past evangelism outings." %}
-
 <figure class="third">
-	<img src="/images/image-filename-1.jpg">
-	<img src="/images/image-filename-2.jpg">
-	<img src="/images/image-filename-3.jpg">
-	<figcaption>Caption describing these three images.</figcaption>
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/messagecards.jpg" alt="">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/jesussaves.jpg" alt="">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/braceletbump.jpg" alt="">
+	<figcaption>Images from recent outings</figcaption>
 </figure>
