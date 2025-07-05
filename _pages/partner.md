@@ -9,7 +9,7 @@ header:
   overlay_filter: 0.15
 ---
 
-[PayPal: @veronicadconner](https://paypal.me/veronicadconner){: .btn .btn--info .btn--large}
+[PayPal: @veronicadconner](https://paypal.me/veronicadconner){:target="_blank" .btn .btn--info .btn--large}
 
 [CashApp: $veronicadconner](https://cash.app/$veronicadconner){: .btn .btn--info .btn--large}
 

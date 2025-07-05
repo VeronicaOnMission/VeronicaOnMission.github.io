@@ -3,6 +3,9 @@ layout: single
 permalink: /statementoffaith/
 title: "Statement of Faith"
 author_profile: true
+toc: true
+toc_label: "Contents"
+toc_icon: "book-open"
 ---
 
 ## The Bible
