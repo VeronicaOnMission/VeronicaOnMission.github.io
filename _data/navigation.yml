@@ -6,7 +6,7 @@ main:
     url: /partner/
   - title: "Contact"
     url: /contact/
-  - title: "About"
-    url: /about/
   - title: "Statement of Faith"
     url: /statementoffaith/
+  - title: "About"
+    url: /about/
