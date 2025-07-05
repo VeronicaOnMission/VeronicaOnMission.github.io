@@ -44,7 +44,6 @@
   (mastodon, $mastodon-color),
   (twitter, $twitter-color),
   (x, $x-color);
-  (paypal, $paypal-color);
 
   @each $buttoncolor, $color in $buttoncolors {
     &--#{$buttoncolor} {
