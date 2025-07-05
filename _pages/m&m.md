@@ -49,22 +49,22 @@ Take the Gospel beyond local boundaries
   {{ stratcommunity | markdownify }}
 </div>
 
-<div class="notice--info">
+<div class="notice--success">
   <h4 class="no_toc">Testimony Sharing</h4>
   {{ strattestimony | markdownify }}
 </div>
 
-<div class="notice--primary">
+<div class="notice--info">
   <h4 class="no_toc">Events-Based</h4>
   {{ stratcommunity | markdownify }}
 </div>
 
-<div class="notice--info">
+<div class="notice--primary">
   <h4 class="no_toc">Digital Evangelism</h4>
   {{ stratdigital | markdownify }}
 </div>
 
-<div class="notice--primary">
+<div class="notice--success">
   <h4 class="no_toc">Mission Trips</h4>
   {{ strattrip | markdownify }}
 </div>
