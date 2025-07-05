@@ -10,7 +10,6 @@ header:
   actions:
 	- label "PayPal: @veronicadconner"
 	background-color: "#002991"
-	url: "https://paypal.me/veronicadconner"
 ---
 
 ### Where I Serve
