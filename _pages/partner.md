@@ -9,7 +9,7 @@ header:
   overlay_filter: 0.15
 ---
 
-### These donation links are intended to open a new tab to a separate website.
+#### Please note that these donation links are intended to open a new tab to a separate website.
 
 [PayPal: @veronicadconner](https://paypal.me/veronicadconner){:target="_blank" .btn .btn--info .btn--large}
 
@@ -23,7 +23,7 @@ header:
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/messagecards.jpg" alt="">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/jesussaves.jpg" alt="">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/braceletbump.jpg" alt="">
-	<figcaption>You shall lay up these words of mine in your heart and in your soul, and bind them as a sign on your hand.</figcaption>
+	<figcaption>You shall lay up these words of mine in your heart and in your soul, and bind them as a sign on your hand. *Deut 11:18*</figcaption>
 </figure>
 
 <figure class="half">
@@ -36,5 +36,5 @@ header:
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/stoplight1.jpg" alt="">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/stoplight2.jpg" alt="">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/stoplight3.jpg" alt="">
-	<figcaption>Bringing joy at an Albuquerque stoplight</figcaption>
+	<figcaption>Bringing joy to an Albuquerque stoplight</figcaption>
 </figure>
