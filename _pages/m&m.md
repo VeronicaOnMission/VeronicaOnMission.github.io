@@ -87,4 +87,4 @@ Take the Gospel beyond local boundaries
 ## Schedule / Events
 - 2026 Mission trip <link>
 - If you would like me to train or speak to congregations about Evangelism tactics and/or success stories, please reach out.
-[Contact](/contact/){: .btn .btn--info .btn--large}
+[Contact](/contact/){: .btn .btn--info}

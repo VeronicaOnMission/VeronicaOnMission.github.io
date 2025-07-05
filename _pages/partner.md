@@ -23,5 +23,18 @@ header:
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/messagecards.jpg" alt="">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/jesussaves.jpg" alt="">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/braceletbump.jpg" alt="">
-	<figcaption>Images from recent outings</figcaption>
+	<figcaption>You shall lay up these words of mine in your heart and in your soul, and bind them as a sign on your hand.</figcaption>
+</figure>
+
+<figure class="half">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/oldtown1.jpg" alt="">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/oldtown2.jpg" alt="">
+	<figcaption>Old Town</figcaption>
+</figure>
+
+<figure class="third">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/stoplight1.jpg" alt="">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/stoplight2.jpg" alt="">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/stoplight3.jpg" alt="">
+	<figcaption>Bringing joy at an Albuquerque stoplight</figcaption>
 </figure>
