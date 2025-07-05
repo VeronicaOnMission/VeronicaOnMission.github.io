@@ -5,15 +5,75 @@ author_profile: true
 title: "Mission & Ministry"
 tagline: "Tagline words"
 header:
-  overlay_image: /assets/images/pinkcactus.jpg
+  overlay_image: /assets/images/streetrose.jpg
   caption: "Photo credit: [**Veronica Conner**](https://veronicaonmission.github.io/gallery)"
 ---
 
-### Where I Serve
+## Outreach Strategies
+{% capture stratstreet %}
+Boldly initiate Gospel conversations in public or residential areas
+* Example: Offering prayer or free literature
+{% endcapture %}
+
+{% capture stratcommunity %}
+Demostrate the love of Jesus through service and meeting practical needs
+* Example: Homeless care kits
+{% endcapture %}
+
+{% capture strattestimony %}
+Use personal Holy Spirit transformation stories to witness to others
+* Examples: One-on-one conversations, public speaking
+{% endcapture %}
+
+{% capture stratevent %}
+Host events designed to attract and engage community with a clear Gospel message
+* Examples: Outdoor evangelistic crusades and/or revivals
+{% endcapture %}
+
+{% capture stratdigital %}
+Use online platforms to reach people where they are
+* Examples: Social media testimonies & Bible content
+{% endcapture %}
+
+{% capture strattrip %}
+Take the Gospel beyond local boundaries
+{% endcapture %}
+
+<div class="notice--info">
+  <h4 class="no_toc">Street Evangelism</h4>
+  {{ stratstreet | markdownify }}
+</div>
+
+<div class="notice--primary">
+  <h4 class="no_toc">Community Acts of Kindness</h4>
+  {{ stratcommunity | markdownify }}
+</div>
+
+<div class="notice--info">
+  <h4 class="no_toc">Testimony Sharing</h4>
+  {{ strattestimony | markdownify }}
+</div>
+
+<div class="notice--primary">
+  <h4 class="no_toc">Events-Based</h4>
+  {{ stratcommunity | markdownify }}
+</div>
+
+<div class="notice--info">
+  <h4 class="no_toc">Digital Evangelism</h4>
+  {{ stratdigital | markdownify }}
+</div>
+
+<div class="notice--primary">
+  <h4 class="no_toc">Mission Trips</h4>
+  {{ strattrip | markdownify }}
+</div>
+
+## Where I Serve
 - Albuquerque, NM
 - Mission trips to various U.S. cities & International locations
 
-### Scripture that inspires my work
+## Scripture that inspires my work
 ---
 
 <figure style="width: 375px" class="align-right">
