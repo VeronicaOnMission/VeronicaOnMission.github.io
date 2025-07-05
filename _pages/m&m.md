@@ -83,3 +83,8 @@ Take the Gospel beyond local boundaries
 > **1 Corinthians 9:16** <br> "For if I preach the Good News, I have nothing to boast about, for necessity is laid on me; but woe is to me if I don't preach the Good News."
 
 > **Mark 16:15-18** <br> “He said to them, ‘Go into all the world and preach the Good News to the whole creation. He who believes and is baptized will be saved; but he who disbelieves will be condemned. These signs will accompany those who believe: in my name they will cast out demons; they will speak with new languages; they will take up servants; and if they drink any deadly thing, it will in no way hurt them; they will lay hands on the sick, and they will recover.”
+
+## Schedule / Events
+- 2026 Mission trip <link>
+- If you would like me to train or speak to congregations about Evangelism tactics and/or success stories, please reach out.
+[Contact](/contact/){: .btn .btn--info .btn--large}
