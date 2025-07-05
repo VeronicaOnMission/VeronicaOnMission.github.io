@@ -7,9 +7,6 @@ tagline: "tagline"
 header:
   overlay_image: /assets/images/rightflower.jpg
   overlay_filter: 0.15
-  actions:
-	- label "PayPal: @veronicadconner"
-	background-color: "#002991"
 ---
 
 ### Where I Serve
