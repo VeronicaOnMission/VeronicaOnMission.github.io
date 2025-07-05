@@ -74,7 +74,6 @@ Take the Gospel beyond local boundaries
 - Mission trips to various U.S. cities & International locations
 
 ## Scripture that inspires my work
----
 
 <figure style="width: 375px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/onesunflower.jpg" alt="">
