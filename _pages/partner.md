@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /partner/
 title: "Partner / Support"
 gallery:
