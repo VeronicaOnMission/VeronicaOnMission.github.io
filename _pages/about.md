@@ -29,7 +29,7 @@ author_profile: true
 <div class="notice--info">
   {{ values | markdownify }}
 </div>
----
+
 {% capture vision %}
 1. Local Impact – see lives in Albuquerque transformed through the Truth of the Gospel
 2. Raise a Generation of Witnesses – equip and activate believers of all ages to live as bold, Spirit-led witnesses in their everyday lives
@@ -39,4 +39,3 @@ author_profile: true
 <div class="notice--success">
   {{ vision | markdownify }}
 </div>
----
