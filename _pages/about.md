@@ -16,20 +16,27 @@ author_profile: true
 > Today, I am finally stepping into the call God placed on my life so many years ago. And with all my heart, I praise Him—because even when I ran, **He never gave up on me**.
 
 ---
+{% capture values %}
+- Communicate the message of Jesus in a way that is understandable and unwavering
+- Train and empower Christians to confidently and effectively share their faith
+- Intentionally support spiritual growth and long-term discipleship
+- Goal: Share the Gospel with 500 people in the next 12 months
+- Build relationships with churches, ministries, and organizations to expand impact and reach
+- Engage in consistent prayer with faith that God will act and guide the ministry
+{% endcapture %}
+
 ## Values
-<p>Communicate the message of Jesus in a way that is understandable and unwavering<br>
-Train and empower Christians to confidently and effectively share their faith<br>
-Intentionally support spiritual growth and long-term discipleship<br>
-Goal: Share the Gospel with 500 people in the next 12 months<br>
-Build relationships with churches, ministries, and organizations to expand impact and reach<br>
-Engage in consistent prayer with faith that God will act and guide the ministry</p>
-{: .notice--info}
-
+<div class="notice--info">
+  {{ values | markdownify }}
+</div>
 ---
+{% capture vision %}
+1. Local Impact – see lives in Albuquerque transformed through the Truth of the Gospel
+2. Raise a Generation of Witnesses – equip and activate believers of all ages to live as bold, Spirit-led witnesses in their everyday lives
+3. Kingdom Carrier – carry the presence and power of God into the city and streets – bringing healing, deliverance and salvation to a broken world
+{% endcapture %}
 ## Vision
-<p align="center">Local Impact – see lives in Albuquerque transformed through the Truth of the Gospel<br>
-Raise a Generation of Witnesses – equip and activate believers of all ages to live as bold, Spirit-led witnesses in their everyday lives<br>
-Kingdom Carrier – carry the presence and power of God into the city and streets – bringing healing, deliverance and salvation to a broken world</p>
-{: .notice--success}
-
+<div class="notice--success">
+  {{ vision | markdownify }}
+</div>
 ---
