@@ -9,11 +9,13 @@ header:
   overlay_filter: 0.15
 ---
 
+### These donation links are intended to open a new tab to a separate website.
+
 [PayPal: @veronicadconner](https://paypal.me/veronicadconner){:target="_blank" .btn .btn--info .btn--large}
 
-[CashApp: $veronicadconner](https://cash.app/$veronicadconner){: .btn .btn--info .btn--large}
+[CashApp: $veronicadconner](https://cash.app/$veronicadconner){:target="_blank" .btn .btn--info .btn--large}
 
-[Venmo: @Veronica-Conner-2](https://venmo.com/Veronica-Conner-2){: .btn .btn--info .btn--large}
+[Venmo: @Veronica-Conner-2](https://venmo.com/Veronica-Conner-2){:target="_blank" .btn .btn--info .btn--large}
 
 ---
 
