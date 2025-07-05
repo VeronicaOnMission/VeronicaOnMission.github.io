@@ -7,5 +7,3 @@ tagline: "**Every donation directly fuels the evangelism mission.** <br>Your gen
 header:
   overlay_image: /assets/images/rightflower.jpg
 ---
-
-{% include gallery caption="Some photos from different evangelism outings" %}
