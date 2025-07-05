@@ -2,6 +2,15 @@
 layout: single
 permalink: /partner/
 title: "Partner / Support"
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/rightflower.jpg
+  actions:
+    - label: "Paypal"
+      url: "https://paypal.me/veronicadconner"
+excerpt: >
+**Every donation directly fuels the evangelism mission.** <br>Your generous support helps provide Bibles, gospel tracts, travel expenses, care packages for the homeless, and essential outreach supplies—ensuring the message of salvation can go farther and touch more lives.
+
 gallery:
   - url: /assets/images/messagecards.jpg
     image_path: /assets/images/messagecards_th.jpg
