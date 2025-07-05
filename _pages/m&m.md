@@ -16,7 +16,7 @@ Boldly initiate Gospel conversations in public or residential areas
 {% endcapture %}
 
 {% capture stratcommunity %}
-Demostrate the love of Jesus through service and meeting practical needs
+Demonstrate the love of Jesus through service and meeting practical needs
 * Example: Homeless care kits
 {% endcapture %}
 
@@ -56,7 +56,7 @@ Take the Gospel beyond local boundaries
 
 <div class="notice--info">
   <h4 class="no_toc">Events-Based</h4>
-  {{ stratcommunity | markdownify }}
+  {{ stratevent | markdownify }}
 </div>
 
 <div class="notice--primary">
