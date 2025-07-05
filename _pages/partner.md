@@ -1,13 +1,46 @@
 ---
 layout: splash
 permalink: /partner/
-author_profile: true
-title: "Partner / Support"
+hidden: true
 header:
-  overlay_image: /assets/images/rightflower.jpg
   overlay_filter: 0.10
-excerpt >
-"**Every donation directly fuels the evangelism mission.** <br>Your generous support helps provide Bibles, gospel tracts, travel expenses, care packages for the homeless, and essential outreach supplies—ensuring the message of salvation can go farther and touch more lives."
-### Where I Serve
-- Albuquerque, NM
-- Mission trips to various U.S. cities & International locations
+  overlay_image: /assets/images/rightflower.jpg
+  actions:
+    - label: "<i class='fas fa-dollar-sign'></i> Paypal"
+      url: "/partner/"
+    - label: "<i class='fas fa-dollar-sign'></i> Cash App"
+      url: "/partner/"
+    - label: "<i class='fas fa-dollar-sign'></i> Venmo"
+      url: "/partner/"
+excerpt: >
+  <b>Hi there, and thank you for visiting!</b><br><br>  
+  My heart is devoted to sharing the love of Jesus with the world. Whether it’s on the streets, in churches, or among the forgotten and hurting, I believe in meeting people with compassion and truth, through the power of the Holy Spirit.<br><br>  
+  My mission is simple but urgent:<br>
+  *I aim to carry the message of salvation to all people through evangelism, discipleship, and the demonstration of God’s love in action.*<br><br> 
+  I invite you to explore my website, learn more about the work God is doing through this ministry, and join me in making an eternal impact.
+  
+feature_row:
+  - image_path: /assets/images/pinkflower.jpg
+    alt: "customizable"
+    title: "Send me"
+    excerpt: "Words under this image."
+    url: "/docs/configuration/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/redflower.jpg
+    alt: "fully responsive"
+    title: "Contact me"
+    excerpt: "I'm available on these and that."
+    url: "/docs/layouts/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/yellowflowerhand.jpg
+    alt: "100% free"
+    title: "Need prayer?"
+    excerpt: "Word to your mother because the Word is your Father"
+    url: "/docs/license/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+---
+
+{% include feature_row %}
