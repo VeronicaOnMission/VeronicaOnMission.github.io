@@ -42,7 +42,7 @@ I believe in one God, eternally existent in three persons: Father, Son, and Holy
 ## Jesus Christ
 I believe in the deity of Jesus Christ, His virgin birth, sinless life, miracles, atoning death through His shed blood, bodily resurrection, ascension to the right hand of the Father, and His personal return in power and glory.
 
-John 1:1–14<br>
+John 1:1–14
 Luke 1:26–35<br>
 Romans 8:34<br>
 Acts 1:10–11<br>
