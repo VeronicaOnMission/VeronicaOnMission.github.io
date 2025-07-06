@@ -8,7 +8,7 @@ header:
   actions:
     - label: "<i class='fas fa-handshake-simple'></i> Partner Now"
       url: "/partner/"
-  excerpt: >
+excerpt: >
   <b>Hi there, and thank you for visiting!</b><br><br>
   My heart is devoted to sharing the love of Jesus with the world. Whether it’s on the streets, in churches, or among the forgotten and hurting, I believe in meeting people with compassion and truth, through the power of the Holy Spirit.<br>
   My mission is simple but urgent:<br>
