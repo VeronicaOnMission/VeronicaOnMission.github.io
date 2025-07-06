@@ -10,9 +10,9 @@ header:
       url: "/partner/"
 excerpt: >
   <b>Hi there, and thank you for visiting!</b><br><br>
-  My heart is devoted to sharing the love of Jesus with the world. Whether it’s on the streets, in churches, or among the forgotten and hurting, I believe in meeting people with compassion and truth, through the power of the Holy Spirit.<br>
+  My heart is devoted to sharing the love of Jesus with the world. Whether it’s on the streets, in churches, or among the forgotten and hurting, I believe in meeting people with compassion and truth, through the power of the Holy Spirit.<br><br>
   My mission is simple but urgent:<br>
-  *I aim to carry the message of salvation to all people through evangelism, discipleship, and the demonstration of God’s love in action.*<br>
+  *I aim to carry the message of salvation to all people through evangelism, discipleship, and the demonstration of God’s love in action.*<br><br>
   I invite you to explore my website, learn more about the work God is doing through this ministry, and join me in making an eternal impact.
   
 feature_row:
