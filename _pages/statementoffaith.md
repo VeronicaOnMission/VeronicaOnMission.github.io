@@ -23,6 +23,7 @@ I believe that salvation is a gift of God’s grace, received by faith in Jesus 
 
 >**Romans 10:9–10**\
 *That if you confess with your mouth the Lord Jesus and believe in your heart that God has raised Him from the dead, you will be saved. For with the heart one believes unto righteousness, and with the mouth confession is made unto salvation.*
+
 >**Ephesians 2:8–9**\
 *For by grace you have been saved through faith, and that not of yourselves; it is the gift of God, not of works, lest anyone should boast.*<br>
 
@@ -31,8 +32,10 @@ I believe in one God, eternally existent in three persons: Father, Son, and Holy
 
 >**Deuteronomy 6:4**\
 *Hear, O Israel: The LORD our God, the LORD is one!*
+
 >**Matthew 28:19**\
 *Go therefore and make disciples of all the nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit.*
+
 >**2 Corinthians 13:14**\
 *The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Spirit be with you all. Amen.*
 
