@@ -10,29 +10,31 @@ toc_sticky: true
 ---
 
 ## The Bible
->I believe the Bible is the inspired, infallible, and authoritative Word of God. It is the final authority for faith, life, and godliness.
+I believe the Bible is the inspired, infallible, and authoritative Word of God. It is the final authority for faith, life, and godliness.
 
-**2 Timothy 3:16–17**
-\
+>**2 Timothy 3:16–17**\
 *All Scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness, that the man of God may be complete, thoroughly equipped for every good work.*
 
 ## Salvation
 I believe that salvation is a gift of God’s grace, received by faith in Jesus Christ alone. Through repentance and personal acceptance of Christ's finished work on the cross, we are born again and reconciled to God.
 
 >**John 3:16**\
-*For God so loved the world that He gave His only begotten Son, that whoever believes in Him should not perish but have everlasting life.*<br>
+*For God so loved the world that He gave His only begotten Son, that whoever believes in Him should not perish but have everlasting life.*
 
-**Romans 10:9–10**\
-*That if you confess with your mouth the Lord Jesus and believe in your heart that God has raised Him from the dead, you will be saved. For with the heart one believes unto righteousness, and with the mouth confession is made unto salvation.*<br>
-**Ephesians 2:8–9**\
+>**Romans 10:9–10**\
+*That if you confess with your mouth the Lord Jesus and believe in your heart that God has raised Him from the dead, you will be saved. For with the heart one believes unto righteousness, and with the mouth confession is made unto salvation.*
+>**Ephesians 2:8–9**\
 *For by grace you have been saved through faith, and that not of yourselves; it is the gift of God, not of works, lest anyone should boast.*<br>
 
 ## God
 I believe in one God, eternally existent in three persons: Father, Son, and Holy Spirit.
 
-Deuteronomy 6:4<br>
-Matthew 28:19<br>
-2 Corinthians 13:14<br>
+>**Deuteronomy 6:4**\
+*Hear, O Israel: The LORD our God, the LORD is one!*
+>**Matthew 28:19**\
+*Go therefore and make disciples of all the nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit.*
+>**2 Corinthians 13:14**\
+*The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Spirit be with you all. Amen.*
 
 ## Jesus Christ
 I believe in the deity of Jesus Christ, His virgin birth, sinless life, miracles, atoning death through His shed blood, bodily resurrection, ascension to the right hand of the Father, and His personal return in power and glory.
