@@ -19,14 +19,12 @@ toc_sticky: true
 ## Salvation
 I believe that salvation is a gift of God’s grace, received by faith in Jesus Christ alone. Through repentance and personal acceptance of Christ's finished work on the cross, we are born again and reconciled to God.
 
-**John 3:16**
-\
+>**John 3:16**\
 *For God so loved the world that He gave His only begotten Son, that whoever believes in Him should not perish but have everlasting life.*<br>
-**Romans 10:9–10**
-\
+
+**Romans 10:9–10**\
 *That if you confess with your mouth the Lord Jesus and believe in your heart that God has raised Him from the dead, you will be saved. For with the heart one believes unto righteousness, and with the mouth confession is made unto salvation.*<br>
-**Ephesians 2:8–9**
-\
+**Ephesians 2:8–9**\
 *For by grace you have been saved through faith, and that not of yourselves; it is the gift of God, not of works, lest anyone should boast.*<br>
 
 ## God
