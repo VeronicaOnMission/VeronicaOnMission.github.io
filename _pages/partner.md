@@ -32,6 +32,11 @@ header:
 	<figcaption>Worshipping together in Old Town</figcaption>
 </figure>
 
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/dcgroup1.jpg" alt="">
+<figcaption>Meeting and joining another Evangelism group while spreading the Good News in DC.</figcaption>
+</figure>
+
 <figure class="third">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/stoplight4.jpg" alt="">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/stoplight2.jpg" alt="">
