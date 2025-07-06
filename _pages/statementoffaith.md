@@ -42,7 +42,10 @@ I believe in one God, eternally existent in three persons: Father, Son, and Holy
 ## Jesus Christ
 I believe in the deity of Jesus Christ, His virgin birth, sinless life, miracles, atoning death through His shed blood, bodily resurrection, ascension to the right hand of the Father, and His personal return in power and glory.
 
-John 1:1–14
+>**John 1:1–14**\
+*In the beginning was the Word, and the Word was with God, and the Word was God. He was in the beginning with God. All things were made through Him, and without Him nothing was made that was made. In Him was life, and the life was the light of men. And the light shines in the darkness, and the darkness did not comprehend it.\ There was a man sent from God, whose name was John. This man came for a witness, to bear witness of the Light, that all through him might believe. He was not that Light, but was sent to bear witness of that Light. That was the true Light which gives light to every man coming into the world.\ He was in the world, and the world was made through Him, and the world did not know Him. He came to His own, and His own did not receive Him. But as many as received Him, to them He gave the right to become children of God, to those who believe in His name: who were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.\ And the Word became flesh and dwelt among us, and we beheld His glory, the glory as of the only begotten of the Father, full of grace and truth.*
+
+John 1:1-14
 Luke 1:26–35<br>
 Romans 8:34<br>
 Acts 1:10–11<br>
