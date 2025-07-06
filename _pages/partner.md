@@ -9,7 +9,7 @@ header:
   overlay_filter: 0.15
 ---
 
-#### Please note that these donation links are intended to open a new tab to a separate website.
+#### These donation links will open in a new window, thank you for your support!
 
 [PayPal: @veronicadconner](https://paypal.me/veronicadconner){:target="_blank" .btn .btn--info .btn--large}
 
