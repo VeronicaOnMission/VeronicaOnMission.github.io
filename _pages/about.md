@@ -26,17 +26,17 @@ author_profile: true
 {% endcapture %}
 
 {% capture vision %}
-1. Local Impact – see lives in Albuquerque transformed through the Truth of the Gospel
-2. Raise a Generation of Witnesses – equip and activate believers of all ages to live as bold, Spirit-led witnesses in their everyday lives
-3. Kingdom Carrier – carry the presence and power of God into the city and streets – bringing healing, deliverance and salvation to a broken world
+- Local Impact – see lives in Albuquerque transformed through the Truth of the Gospel
+- Raise a Generation of Witnesses – equip and activate believers of all ages to live as bold, Spirit-led witnesses in their everyday lives
+- Kingdom Carrier – carry the presence and power of God into the city and streets – bringing healing, deliverance and salvation to a broken world
 {% endcapture %}
-
-## Values
-<div class="notice--info">
-  {{ values | markdownify }}
-</div>
 
 ## Vision
 <div class="notice--success">
   {{ vision | markdownify }}
+</div>
+
+## Values
+<div class="notice--info">
+  {{ values | markdownify }}
 </div>
