@@ -29,11 +29,11 @@ header:
 <figure class="half">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/oldtown1.jpg" alt="">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/oldtown2.jpg" alt="">
-	<figcaption>Old Town</figcaption>
+	<figcaption>Worshipping together in Old Town</figcaption>
 </figure>
 
 <figure class="third">
-	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/stoplight1.jpg" alt="">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/stoplight4.jpg" alt="">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/stoplight2.jpg" alt="">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/stoplight3.jpg" alt="">
 	<figcaption>Bringing joy to an Albuquerque stoplight</figcaption>
