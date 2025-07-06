@@ -4,7 +4,6 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_filter: 0.15
   overlay_image: /assets/images/nmsunset.jpg
   actions:
     - label: "<i class='fas fa-handshake-simple'></i> Partner Now"
