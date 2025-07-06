@@ -51,7 +51,7 @@ Romans 8:34<br>
 Acts 1:10–11<br>
 
 ## Holy Spirit
-I believe in the present ministry of the Holy Spirit, who indwells and empowers believers to live godly lives, equips them with spiritual gifts, and enables them for service and witness.
+I believe in the present ministry of the Holy Spirit, who indwells and empowers believers to live Godly lives, equips them with spiritual gifts, and enables them for service and witness.
 
 Acts 1:8<br>
 Galatians 5:22–23<br>
