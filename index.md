@@ -20,7 +20,7 @@ feature_row:
   - image_path: /assets/images/gospel1.jpg
     alt: ""
     title: "Want to help?"
-    excerpt: "The harvest is plentiful, but the laborers are few."
+    excerpt: "The harvest is plentiful, but the laborers are few. *Luke 10:2*"
     url: "/partner/"
     btn_class: "btn--primary"
     btn_label: "Support the mission"

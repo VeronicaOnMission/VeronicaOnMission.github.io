@@ -3,7 +3,12 @@ layout: single
 permalink: /about/
 title: "About"
 author_profile: true
----
+toc: true
+toc_label: "Contents"
+toc_icon: "book-open"
+toc_sticky: true
+header:
+  overlay_image: /assets/images/readbibleblanket.jpg
 ---
 
 ## Testimony & Calling
