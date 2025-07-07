@@ -16,7 +16,7 @@ author_profile: true
   </fieldset>
 </form>
 
-<iframe name="hidden_iframeprayer" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
+<iframe name="hidden_iframeprayer" id="hidden_iframeprayer" style="display:none;" onload="if(submitted) {}"></iframe>
 
 <script src="/assets/js/main.min.js"></script>
 <script type="text/javascript">var submitted=false;</script>
@@ -30,7 +30,7 @@ $('#gformprayer').on('submit', function(e) {
 ## Connect
 <form name="gformcontact" id="gformcontact" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSeQZHbJYkdtSrCMRMuc1LDtKgmrR6Jfol1KUzdZRjIIbIzQMQ/formResponse?" target="hidden_iframecontact" onsubmit="submitted=true;">
   <fieldset>
-    <legend>You can contact me on multiple social media platforms by checking this website's sidebar. This web form is also available for convenience. Please allow 1-2 days for a response.</legend>
+    <legend>You can contact me on multiple social media platforms by checking this website's sidebar or footer. This web form is also available for convenience. Please allow 1-2 days for a response.</legend>
     Name: <input type="text" size="30" name="entry.1166045863"><br>
     Email: <input type="text" size="30" name="entry.720425147"><br>
     Message: <textarea name="entry.220754968"></textarea>
@@ -38,7 +38,7 @@ $('#gformprayer').on('submit', function(e) {
   </fieldset>
 </form>
 
-<iframe name="hidden_iframecontact" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
+<iframe name="hidden_iframecontact" id="hidden_iframecontact" style="display:none;" onload="if(submitted) {}"></iframe>
 
 <script src="/assets/js/main.min.js"></script>
 <script type="text/javascript">var submitted=false;</script>
