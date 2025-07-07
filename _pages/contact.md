@@ -10,7 +10,7 @@ to all who call on him in truth. Psalms 145:18
 ## Prayer Request
 <form name="gformprayer" id="gformprayer" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLScRAlEzSE7QrZiW1eMs6s7ITa3Fcp_GG2BNmyqy26s27/formResponse?" target="hidden_iframeprayer" onsubmit="submitted=true;">
   <fieldset>
-    <legend>Please be as detailed as you would prefer and know that your request will be kept confidential.<br>The LORD is near to all who call on him, to all who call on him in truth. <i>Psalms 145:18</i></legend>
+    <legend>Please be as detailed as you would prefer and know that your request will be kept confidential.<br> The LORD is near to all who call on him, to all who call on him in truth. <br><i>Psalms 145:18</i></legend>
     Name: <input type="text" size="30" name="entry.1290604962"><br>
     Prayer request: <textarea name="entry.370420084"></textarea>
 	<input type="submit" name='submit' value="Submit Prayer">
@@ -31,7 +31,7 @@ to all who call on him in truth. Psalms 145:18
 ## Connect
 <form name="gformcontact" id="gformcontact" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSeQZHbJYkdtSrCMRMuc1LDtKgmrR6Jfol1KUzdZRjIIbIzQMQ/formResponse?" target="hidden_iframecontact" onsubmit="submitted=true;">
   <fieldset>
-    <legend>You can contact me on multiple social media platforms by checking this website's sidebar or footer. This web form is also available for convenience. Please allow 1-2 days for a response.</legend>
+    <legend>You can contact me on multiple social media platforms by checking this website's sidebar or footer.<br>This web form is also available for convenience. Please allow 1-2 days for a response.</legend>
     Name: <input type="text" size="30" name="entry.1166045863"><br>
     Email: <input type="text" size="30" name="entry.720425147"><br>
     Message: <textarea name="entry.220754968"></textarea>
