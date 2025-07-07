@@ -4,15 +4,16 @@ permalink: /contact/
 title: "Contact"
 author_profile: true
 ---
-
+he LORD is near to all who call on him,
+to all who call on him in truth. Psalms 145:18
 
 ## Prayer Request
-<form name="gformprayer" id="gformprayer" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLScRAlEzSE7QrZiW1eMs6s7ITa3Fcp_GG2BNmyqy26s27formResponse?" target="hidden_iframeprayer" onsubmit="submitted=true;">
+<form name="gformprayer" id="gformprayer" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLScRAlEzSE7QrZiW1eMs6s7ITa3Fcp_GG2BNmyqy26s27/formResponse?" target="hidden_iframeprayer" onsubmit="submitted=true;">
   <fieldset>
-    <legend>Please be as detailed as you would prefer and know that your request will be kept confidential.</legend>
+    <legend>Please be as detailed as you would prefer and know that your request will be kept confidential.<br>The LORD is near to all who call on him, to all who call on him in truth. <i>Psalms 145:18</i></legend>
     Name: <input type="text" size="30" name="entry.1290604962"><br>
     Prayer request: <textarea name="entry.370420084"></textarea>
-	<input type="submit" name='submit' value="Submit prayer">
+	<input type="submit" name='submit' value="Submit Prayer">
   </fieldset>
 </form>
 
@@ -21,9 +22,9 @@ author_profile: true
 <script src="/assets/js/main.min.js"></script>
 <script type="text/javascript">var submitted=false;</script>
 <script type="text/javascript">
-$('#gformprayer').on('submit', function(e) {
+  $('#gformprayer').on('submit', function(e) {
   $('#gformprayer *').fadeOut(2000);
-  $('#gformprayer').prepend('Thank you for your willingness to ask for prayer. *The Lord is near to all who call on Him, to all who call on Him in truth.*');
+  $('#gformprayer').prepend('Thank you for your willingness to ask for prayer.');
   });
 </script>
 
