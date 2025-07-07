@@ -3,7 +3,7 @@ layout: single
 permalink: /m&m/
 author_profile: true
 title: "Mission & Ministry"
-tagline: "they were all filled with the Holy Spirit and continued to speak the word of God with boldness. **Acts 4:31b**"
+tagline: "saved through"
 header:
   overlay_image: /assets/images/faithonthemic.jpg
 ---
