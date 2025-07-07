@@ -6,7 +6,7 @@ title: "Mission & Ministry"
 tagline: ""
 header:
   overlay_image: /assets/images/streetrose.jpg
-  <!-- caption: "Photo credit: [**Veronica Conner**](https://veronicaonmission.github.io/gallery)" -->
+  caption: "Photo credit: [**Veronica Conner**](https://veronicaonmission.github.io/gallery)"
 ---
 
 ## Outreach Strategies
