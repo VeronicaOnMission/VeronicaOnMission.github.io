@@ -17,10 +17,17 @@ excerpt: >
   I invite you to explore my website, learn more about the work God is doing through this ministry, and join me in making an eternal impact.
   
 feature_row:
+  - image_path: /assets/images/gospel1.jpg
+    alt: ""
+    title: "Want to help?"
+    excerpt: "The harvest is plentiful, but the laborers are few."
+    url: "/partner/"
+    btn_class: "btn--primary"
+    btn_label: "Support the mission"
   - image_path: /assets/images/jesuswinspaper.jpg
     alt: ""
     title: "Have questions?"
-    excerpt: "Please contact me with your ideas and questions about how to spread the Good News."
+    excerpt: "Please contact me with your ideas and questions."
     url: "/contact/"
     btn_class: "btn--primary"
     btn_label: "Contact"
