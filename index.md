@@ -4,6 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
+  overlay_filter: 0.25
   overlay_image: /assets/images/biblesplash.jpg
   actions:
     - label: "<i class='fas fa-handshake-simple'></i> Partner Now"
@@ -16,13 +17,6 @@ excerpt: >
   I invite you to explore my website, learn more about the work God is doing through this ministry, and join me in making an eternal impact.
   
 feature_row:
-  - image_path: /assets/images/gospel1.jpg
-    alt: ""
-    title: "Some idea"
-    excerpt: "Some words under this image."
-    url: "/partner/"
-    btn_class: "btn--primary"
-    btn_label: "Support the mission"
   - image_path: /assets/images/jesuswinspaper.jpg
     alt: ""
     title: "Have questions?"

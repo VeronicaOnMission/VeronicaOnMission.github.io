@@ -3,10 +3,9 @@ layout: single
 permalink: /m&m/
 author_profile: true
 title: "Mission & Ministry"
-tagline: ""
+tagline: "they were all filled with the Holy Spirit and continued to speak the word of God with boldness. **Acts 4:31b**"
 header:
-  overlay_image: /assets/images/streetrose.jpg
-  caption: "Photo credit: [**Veronica Conner**](https://veronicaonmission.github.io/gallery)"
+  overlay_image: /assets/images/faithonthemic.jpg
 ---
 
 ## Outreach Strategies
