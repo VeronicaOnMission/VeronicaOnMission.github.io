@@ -41,5 +41,5 @@ header:
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/stoplight4.jpg" alt="">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/stoplight2.jpg" alt="">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/stoplight3.jpg" alt="">
-	<figcaption>Bringing joy to an Albuquerque stoplight</figcaption>
+	<figcaption>Bringing joy and hope to an Albuquerque stoplight!</figcaption>
 </figure>

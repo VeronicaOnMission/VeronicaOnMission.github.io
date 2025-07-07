@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/nmsunset.jpg
+  overlay_image: /assets/images/biblesplash.jpg
   actions:
     - label: "<i class='fas fa-handshake-simple'></i> Partner Now"
       url: "/partner/"
@@ -16,25 +16,25 @@ excerpt: >
   I invite you to explore my website, learn more about the work God is doing through this ministry, and join me in making an eternal impact.
   
 feature_row:
-  - image_path: /assets/images/pinkflower.jpg
+<!--  - image_path: /assets/images/pinkflower.jpg
     alt: ""
     title: "Send me"
     excerpt: "Words under this image."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/redflower.jpg
+    btn_label: "Learn more" -->
+  - image_path: /assets/images/jesuswinspaper.jpg
     alt: ""
-    title: "Contact me"
-    excerpt: "I'm available on these and that."
-    url: "/docs/layouts/"
+    title: "Have questions?"
+    excerpt: "Please contact me with your questions and ideas to spread the Good News."
+    url: "/contact/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/yellowflowerhand.jpg
+  - image_path: /assets/images/prayerbw.jpg
     alt: ""
     title: "Need prayer?"
-    excerpt: ""
-    url: ""
+    excerpt: "I would be glad to pray for anything you are willing to share."
+    url: "/contact/"
     btn_class: "btn--primary"
     btn_label: "Submit your prayer"
 ---
