@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_filter: 0.25
+  overlay_filter: 0.35
   overlay_image: /assets/images/biblesplash.jpg
   actions:
     - label: "<i class='fas fa-handshake-simple'></i> Partner Now"

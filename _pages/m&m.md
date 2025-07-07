@@ -3,7 +3,7 @@ layout: single
 permalink: /m&m/
 author_profile: true
 title: "Mission & Ministry"
-tagline: "saved through"
+tagline: ""
 header:
   overlay_image: /assets/images/faithonthemic.jpg
 ---
