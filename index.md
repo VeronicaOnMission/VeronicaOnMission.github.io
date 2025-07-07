@@ -16,20 +16,20 @@ excerpt: >
   I invite you to explore my website, learn more about the work God is doing through this ministry, and join me in making an eternal impact.
   
 feature_row:
-<!--  - image_path: /assets/images/pinkflower.jpg
+  - image_path: /assets/images/gospel1.jpg
     alt: ""
-    title: "Send me"
-    excerpt: "Words under this image."
-    url: "/docs/configuration/"
+    title: "Some idea"
+    excerpt: "Some words under this image."
+    url: "/partner/"
     btn_class: "btn--primary"
-    btn_label: "Learn more" -->
+    btn_label: "Support the mission"
   - image_path: /assets/images/jesuswinspaper.jpg
     alt: ""
     title: "Have questions?"
     excerpt: "Please contact me with your questions and ideas to spread the Good News."
     url: "/contact/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Contact"
   - image_path: /assets/images/prayerbw.jpg
     alt: ""
     title: "Need prayer?"
