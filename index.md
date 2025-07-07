@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_filter: 0.35
+  overlay_filter: 0.50
   overlay_image: /assets/images/biblesplash.jpg
   actions:
     - label: "<i class='fas fa-handshake-simple'></i> Partner Now"
@@ -20,7 +20,7 @@ feature_row:
   - image_path: /assets/images/jesuswinspaper.jpg
     alt: ""
     title: "Have questions?"
-    excerpt: "Please contact me with your questions and ideas to spread the Good News."
+    excerpt: "Please contact me with your ideas and questions about how to spread the Good News."
     url: "/contact/"
     btn_class: "btn--primary"
     btn_label: "Contact"

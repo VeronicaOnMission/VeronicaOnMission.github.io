@@ -40,3 +40,10 @@ author_profile: true
 <div class="notice--info">
   {{ values | markdownify }}
 </div>
+
+## Education
+**Masters of Social Work**
+- Arkansas University
+
+**Evangelism Certificate**
+- Living Waters School of Biblical Evangelism
