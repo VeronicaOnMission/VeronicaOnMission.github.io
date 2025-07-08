@@ -27,15 +27,15 @@ header:
 
 <div class="image123">
     <div style="float:left;margin-right:5px;">
-        <a href="https://paypal.me/veronicadconner" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/venmo.png" height="40" width="160"  /></a>
+        <a href="https://paypal.me/veronicadconner" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/paypal.png" height="32" width="200"  /></a>
         <p style="text-align:center;">@veronicadconner</p>
     </div>
     <div style="float:left;margin-right:5px;">
-        <a href="https://cash.app/$veronicadconner" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/cashapp.png" height="40" width="160"  /></a>
+        <a href="https://cash.app/$veronicadconner" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/cashapp.png" height="32" width="200"  /></a>
         <p style="text-align:center;">$veronicadconner</p>
     </div>
     <div style="float:left;margin-right:5px;">
-        <a href="https://venmo.com/Veronica-Conner-2" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/venmo.png" height="40" width="160"  /></a>
+        <a href="https://venmo.com/Veronica-Conner-2" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/venmo.png" height="32" width="200"  /></a>
         <p style="text-align:center;">@Veronica-Conner-2</p>
     </div>
 </div>
