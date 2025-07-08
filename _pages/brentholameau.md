@@ -12,9 +12,10 @@ header:
 
 [PayPal: @veronicadconner](https://paypal.me/veronicadconner){:target="_blank" .btn .btn--info .btn--large}
 
-[![foo](https://paypal.me/veronicadconner)](@veronicadconner)
+![@veronicadconner]({{ site.url }}{{ site.baseurl }}/assets/images/paypal.png){: target="_blank" .align-left}
 
-<figure style="width: 246px" class="align-left">
+
+<figure style="width: 246px" class="align-center">
   <a href="https://paypal.me/veronicadconner"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/paypal.png" alt="" /></a>
   <figcaption>@veronicadconner</figcaption>
 </figure>
