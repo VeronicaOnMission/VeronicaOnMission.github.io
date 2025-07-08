@@ -25,35 +25,17 @@ header:
 </figure>
 
 
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-<title></title>
-<style>
-  .container {
-      display:inline-block;
-  }
-</style>
-</head>
-<body>
-
-  <div class="container">
-    <figure>
-    <a href="https://cash.app/$veronicadconner" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/cashapp.png" alt="" height="40" width="150" /></a>
-    <figcaption>$veronicadconner</figcaption>
-    </figure>
-
-    <figure>
-    <img class="middle-img" src="http://placehold.it/350x150"/ height="200" width="200">
-    <figcaption>This is image 2</figcaption>
-    </figure>
-
-    <figure>
-    <img src="http://placehold.it/350x150" height="200" width="200">
-    <figcaption>This is image 3</figcaption>
-    </figure>
-
-  </div>
-</body>
-</html>
+<div class="image123">
+    <div style="float:left;margin-right:5px;">
+        <a href="https://paypal.me/veronicadconner" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/venmo.png" height="40" width="160"  /></a>
+        <p style="text-align:center;">@veronicadconner</p>
+    </div>
+    <div style="float:left;margin-right:5px;">
+        <a href="https://cash.app/$veronicadconner" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/cashapp.png" height="40" width="160"  /></a>
+        <p style="text-align:center;">$veronicadconner</p>
+    </div>
+    <div style="float:left;margin-right:5px;">
+        <a href="https://venmo.com/Veronica-Conner-2" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/venmo.png" height="40" width="160"  /></a>
+        <p style="text-align:center;">@Veronica-Conner-2</p>
+    </div>
+</div>
