@@ -17,7 +17,7 @@ header:
 
 <figure style="width: 150px">
   <a href="https://cash.app/$veronicadconner" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/cashapp.png" alt="" /></a>
-  <figcaption><a class="btn btn--info" href="https://cash.app/$veronicadconner" target="_blank">$veronicadconner</a></figcaption>
+  <figcaption><a class="btn" href="https://cash.app/$veronicadconner" target="_blank">$veronicadconner</a></figcaption>
 </figure>
 
 <figure style="width: 150px">
