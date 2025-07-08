@@ -28,7 +28,7 @@ header:
 <div class="image123">
     <div style="float:left;margin-right:75px;">
         <a href="https://paypal.me/veronicadconner" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/paypal.png" height="32" width="137" /></a>
-        <a style="text-align:center class="btn btn--inverse" href="https://paypal.me/veronicadconner" target="_blank">@veronicadconner</a>
+        <a class="btn btn--inverse" href="https://paypal.me/veronicadconner" target="_blank">@veronicadconner</a>
     </div>
     <div style="float:left;margin-right:75px;">
         <a href="https://cash.app/$veronicadconner" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/cashapp.png" height="32" width="137"  /></a>
