@@ -7,7 +7,7 @@ header:
   overlay_filter: 0.50
   overlay_image: /assets/images/biblesplash.jpg
   actions:
-    - label: "<i class='fas fa-handshake-simple'></i> Partner Now"
+    - label: "<i class='fas fa-handshake-simple'></i> Support the Ministry"
       url: "/partner/"
 excerpt: >
   <b>Hi there, and thank you for visiting!</b><br><br>
