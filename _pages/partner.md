@@ -20,7 +20,7 @@ header:
         <a href="https://venmo.com/Veronica-Conner-2" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/venmo.png" height="32" width="137"  /></a>
     </div>
 </div>
-<br>
+<div style="clear:both;float:none;"></div>
 
 **These donation links will open in a new window, thank you for your support!**
 {: .notice--success}
