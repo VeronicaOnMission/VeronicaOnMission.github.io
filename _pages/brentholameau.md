@@ -9,6 +9,15 @@ header:
 ---
 
 ---
+<figure class="third">
+	<a href="https://paypal.me/veronicadconner" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/paypal.png" height="32" width="137" /></a>
+	<a href="https://cash.app/$veronicadconner" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/cashapp.png" height="32" width="137"  /></a>
+	<a href="https://venmo.com/Veronica-Conner-2" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/venmo.png" height="32" width="137"  /></a>
+	<figcaption>These donation links will open in a new window, thank you for your support!{: .notice--success}</figcaption>
+</figure>
+
+These donation links will open in a new window, thank you for your support!
+{: .notice--success}
 
 <div class="image123">
     <div style="float:left;margin-right:75px;margin-bottom:20px;">
