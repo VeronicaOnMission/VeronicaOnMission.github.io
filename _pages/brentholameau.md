@@ -22,9 +22,9 @@ header:
     </div>
 </div>
 <br>
----
 
-#### These donation links will open in a new window, thank you for your support!
+These donation links will open in a new window, thank you for your support!
+{: .notice--success}
 
 <figure class="third">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/messagecards.jpg" alt="">
