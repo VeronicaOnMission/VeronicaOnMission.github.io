@@ -121,7 +121,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:veronicadconner@gmail.com"
+      url: "target="_blank" mailto:veronicadconner@gmail.com"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/veronicaonmission"
