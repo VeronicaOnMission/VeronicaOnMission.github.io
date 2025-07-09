@@ -83,6 +83,7 @@ Take the Gospel beyond local boundaries
 And He said, “The kingdom of God is as if a man should scatter seed on the ground. He sleeps and rises night and day, and the seed sprouts and grows; he knows not how.
 
 ## Schedule / Events
-- 2026 Mission trip <link>
+- 2026 Mission trip (planning phase)
+- Ongoing bi-weekly Evangelism outings and training in Albuquerque
 - If you would like me to train or speak to congregations about Evangelism tactics and/or success stories, please reach out.
 [Contact](/contact/){: .btn .btn--info}
