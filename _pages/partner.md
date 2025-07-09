@@ -21,6 +21,7 @@ header:
     </div>
 </div>
 <br>
+
 **These donation links will open in a new window, thank you for your support!**
 {: .notice--success}
 
