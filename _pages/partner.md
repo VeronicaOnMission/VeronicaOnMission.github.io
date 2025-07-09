@@ -9,8 +9,6 @@ header:
   overlay_filter: 0.40
 ---
 
-#### These donation links will open in a new window, thank you for your support!
-
 <div class="image123">
     <div style="float:left;margin-right:75px;margin-bottom:20px;">
         <a href="https://paypal.me/veronicadconner" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/paypal.png" height="32" width="137" /></a>
@@ -22,7 +20,9 @@ header:
         <a href="https://venmo.com/Veronica-Conner-2" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/venmo.png" height="32" width="137"  /></a>
     </div>
 </div>
-<br><br>
+
+#### These donation links will open in a new window, thank you for your support!
+\
 <figure class="third">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/messagecards.jpg" alt="">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/jesussaves.jpg" alt="">
