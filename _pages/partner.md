@@ -22,7 +22,7 @@ header:
 </div>
 <br><br>
 #### These donation links will open in a new window, thank you for your support!
-\
+
 <figure class="third">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/messagecards.jpg" alt="">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/jesussaves.jpg" alt="">
