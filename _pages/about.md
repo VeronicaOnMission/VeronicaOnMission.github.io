@@ -50,5 +50,5 @@ header:
 **Masters of Social Work**
 - Arkansas State University
 
-**Evangelism Certificate**
+**Evangelism Certification**
 - Living Waters School of Biblical Evangelism
