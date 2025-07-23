@@ -26,6 +26,13 @@ header:
 {: .notice--success}
 
 <figure class="third">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/SummerFest2025sign.jpg" alt="">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/SummerFest2025sing.jpg" alt="">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/SummerFest2025pray.jpg" alt="">
+	<figcaption>You shall lay up these words of mine in your heart and in your soul, and bind them as a sign on your hand. *Deut 11:18*</figcaption>
+</figure>
+
+<figure class="third">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/messagecards.jpg" alt="">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/jesussaves.jpg" alt="">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/braceletbump.jpg" alt="">
@@ -35,7 +42,7 @@ header:
 <figure class="half">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/oldtown1.jpg" alt="">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/oldtown2.jpg" alt="">
-	<figcaption>Worshipping together in Old Town</figcaption>
+	<figcaption>Worshipping together in Old Town Albuquerque</figcaption>
 </figure>
 
 <figure>
