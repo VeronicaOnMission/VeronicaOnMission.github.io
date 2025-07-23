@@ -26,6 +26,13 @@ header:
 {: .notice--success}
 
 <figure class="third">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/SummerFest2025sign.jpg" alt="">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/SummerFest2025sing.jpg" alt="">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/SummerFest2025pray.jpg" alt="">
+	<figcaption>We were able to hand out **FIFTY** free Bibles at Summerfest 2025 in Albuquerque!</figcaption>
+</figure>
+
+<figure class="third">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/messagecards.jpg" alt="">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/jesussaves.jpg" alt="">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/braceletbump.jpg" alt="">
