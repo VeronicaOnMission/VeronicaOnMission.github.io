@@ -42,7 +42,7 @@ header:
 <figure class="half">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/oldtown1.jpg" alt="">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/oldtown2.jpg" alt="">
-	<figcaption>Worshipping together in Old Town Albuquerque</figcaption>
+	<figcaption>Worshipping together in Old Town Albuquerque.</figcaption>
 </figure>
 
 <figure>
