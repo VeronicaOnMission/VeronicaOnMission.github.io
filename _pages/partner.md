@@ -26,6 +26,13 @@ header:
 {: .notice--success}
 
 <figure class="third">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/081625Bible.jpg" alt="">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/081625Hope.jpg" alt="">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/081625Smile.jpg" alt="">
+	<figcaption>8/16/25 | We handed out over **seventy** smile cards that include the Good News at the Downtown Grower's Market!</figcaption>
+</figure>
+
+<figure class="third">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/SummerFest2025sign.jpg" alt="">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/SummerFest2025sing.jpg" alt="">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/SummerFest2025pray.jpg" alt="">
