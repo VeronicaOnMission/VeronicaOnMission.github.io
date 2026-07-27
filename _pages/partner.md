@@ -28,7 +28,7 @@ header:
 <figure class="third">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/071826Worship.jpg" alt="">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/071826Prayer.jpg" alt="">
-	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/071826Group.jpg" alt="">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/071826Table.jpg" alt="">
 	<figcaption>7/18/26 | We gave out more than **ONE HUNDRED** Bibles at Albuquerque Summerfest 2026! </figcaption>
 </figure>
 
