@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 ## Prayer Request
-<form name="gformprayer" id="gformprayer" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLScRAlEzSE7QrZiW1eMs6s7ITa3Fcp_GG2BNmyqy26s27seHgQ/formResponse?" target="hidden_iframeprayer" onsubmit="submitted=true;">
+<form name="gformprayer" id="gformprayer" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSdaRfXGdzhVYsvXq4dFmQTMxyPD8IKrR4gR4l46Svt7rcD1gg/formResponse?" target="hidden_iframeprayer" onsubmit="submitted=true;">
   <fieldset>
     <legend>Please be as detailed as you would like and know that your request will be kept confidential. The LORD is near to all who call on Him, to all who call on Him in truth. <i>Psalms 145:18</i></legend>
-    Name: <input type="text" size="30" name="entry.1290604962"><br>
-    Prayer request: <textarea name="entry.370420084"></textarea>
+    Name: <input type="text" size="30" name="entry.773669013"><br>
+    Prayer request: <textarea name="entry.822590760"></textarea>
 	<input type="submit" name='submit' value="Submit Prayer">
   </fieldset>
 </form>
