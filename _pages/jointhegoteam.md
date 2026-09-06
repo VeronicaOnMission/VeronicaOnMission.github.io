@@ -43,6 +43,6 @@ Please keep your testimony within 5-10 sentences total.<br>
 <script type="text/javascript">
   $('#gformjoingo').on('submit', function(e) {
   $('#gformjoingo *').fadeOut(2000);
-  $('#gformjoingo').prepend('I'll reach out to you soon. How beautiful are the feet of those who preach the gospel of peace, who bring glad tidings of good things! Romans 10:15');
+  $('#gformjoingo').prepend('I'll reach out to you soon. How beautiful are the feet of those who preach the gospel of peace, who bring glad tidings of good things! Romans 10.15');
   });
 </script>
