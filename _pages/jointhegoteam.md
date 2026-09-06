@@ -20,11 +20,11 @@ Let us agree to bring the news of Jesus Christ and Him crucified in unity throug
 
 <a href="/statementoffaith/" target="_blank" class="btn btn--info">Statement of Faith</a>
 
-## Testimony and Information
+## Share your Testimony and Contact Info
 Please keep your testimony within 5-10 sentences total.<br>
 
 <b>Before Jesus</b> What was  your life like before coming to Jesus?<br>
-<b>Meeting Jesus</b> Who brought you to Jesus? How did your circumstances change?<br>
+<b>Meeting Jesus</b> How did you come to the knowledge of Jesus? Did someone help you? Was it by revelation?<br>
 <b>After Jesus</b> What is your life like now? How has life changed since coming to Jesus?<br>
 
 <form name="gformjoingo" id="gformjoingo" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSfwJqQt_s8wgBBbaAUrLrzfURXEIcYozZYamWbfIu1lMwgUhQ/formResponse?" target="hidden_iframejoingo" onsubmit="submitted=true;">
@@ -43,6 +43,6 @@ Please keep your testimony within 5-10 sentences total.<br>
 <script type="text/javascript">
   $('#gformjoingo').on('submit', function(e) {
   $('#gformjoingo *').fadeOut(2000);
-  $('#gformjoingo').prepend('Thank you for your willingness to be the feet of Jesus.');
+  $('#gformjoingo').prepend('I'll reach out to you soon. How beautiful are the feet of those who preach the gospel of peace, who bring glad tidings of good things! Romans 10:15');
   });
 </script>
