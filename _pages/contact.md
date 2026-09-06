@@ -11,7 +11,7 @@ author_profile: true
     <legend>Please be as detailed as you would like and know that your request will be kept confidential. The LORD is near to all who call on Him, to all who call on Him in truth. <i>Psalms 145:18</i></legend>
     Name: <input type="text" size="30" name="entry.773669013"><br>
     Prayer request: <textarea name="entry.822590760"></textarea>
-	<input type="submit" name='submit' value="Submit Prayer">
+	<input type="submit" name='submitprayer' value="Submit Prayer">
   </fieldset>
 </form>
 
@@ -20,7 +20,7 @@ author_profile: true
 <script src="/assets/js/main.min.js"></script>
 <script type="text/javascript">var submitted=false;</script>
 <script type="text/javascript">
-  $('#gformprayer').on('submit', function(e) {
+  $('#gformprayer').on('submitprayer', function(e) {
   $('#gformprayer *').fadeOut(2000);
   $('#gformprayer').prepend('Thank you for your willingness to ask for prayer.');
   });
@@ -33,7 +33,7 @@ author_profile: true
     Name: <input type="text" size="30" name="entry.1764945982"><br>
     Email: <input type="text" size="30" name="entry.147314099"><br>
     Message: <textarea name="entry.966876538"></textarea>
-	<input type="submit" name='submit' value="Submit Form">
+	<input type="submit" name='submitconnect' value="Submit Form">
   </fieldset>
 </form>
 
@@ -42,7 +42,7 @@ author_profile: true
 <script src="/assets/js/main.min.js"></script>
 <script type="text/javascript">var submitted=false;</script>
 <script type="text/javascript">
-$('#gformconnect').on('submit', function(e) {
+$('#gformconnect').on('submitconnect', function(e) {
   $('#gformconnect *').fadeOut(2000);
   $('#gformconnect').prepend('Thank you for reaching out, your information has been submitted... :D');
   });
