@@ -9,12 +9,12 @@ author_profile: true
 Thank you for your interest in furthering the gospel through this ministry.<br>
 
 {% capture statementlink %}
-Let us agree to bring the news of Jesus Christ and Him crucified in unity through the essentials of faith.<br>
+<br>Let us agree to bring the news of Jesus Christ and Him crucified in unity through the essentials of faith.
 * Please take a moment to read the Statement of Faith on this site and understand its doctrinal significance. If any of these doctrines are unfamiliar or differ from your own, let's discuss them and pray for understanding and unity.
 {% endcapture %}
 
 <div class="notice--info">
-  <h4 class="no_toc">There is one body and one Spirit, just as you were called in one hope of your calling; one Lord, one faith, one baptism; one God and Father of all, who is above all, and through all, and in you all.<i>Ephesians 4:4-6</i><br></h4>
+  <h4 class="no_toc">There is one body and one Spirit, just as you were called in one hope of your calling; one Lord, one faith, one baptism; one God and Father of all, who is above all, and through all, and in you all. <i>Ephesians 4:4-6</i></h4>
   {{ statementlink | markdownify }}
 </div>
 
