@@ -23,13 +23,13 @@ Let us agree to bring the news of Jesus Christ and Him crucified in unity of the
 
 [Statement of Faith](/statementoffaith/){: .btn .btn--info}
 
-<a href="https://veronicaonmission.github.io/jointhegoteam/" class="btn--success">Statement of Faith</a>
+<a href="/statementoffaith/" target="_blank" class="btn btn--info">Statement of Faith</a>
 
-<a href="{{ site.url }}{{ site.baseurl }}/statementoffaith" target="_blank"></a>
+<a href="https://paypal.me/veronicadconner" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/paypal.png" height="32" width="137" /></a>
 
 ## Testimony and Information
 Please keep your testimony within 5-10 sentences total.<br>
-Here are some practical tips on how to structure your testimony.<br>
+
 <b>Before Jesus</b> What was  your life like before coming to Jesus?<br>
 <b>Meeting Jesus</b> Who brought you to Jesus? How did your circumstances (outlook?) change?<br>
 <b>After Jesus</b> What is your life like now? How has life changed since coming to Jesus?<br>
