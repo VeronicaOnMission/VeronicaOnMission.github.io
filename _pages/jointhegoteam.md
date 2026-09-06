@@ -46,6 +46,6 @@ Please keep your testimony within 5-10 sentences total.<br>
 <script type="text/javascript">
   $('#gformjoingo').on('submit', function(e) {
   $('#gformjoingo *').fadeOut(2000);
-  $('#gformjoingo').prepend('Thank you for your willingness to ask for prayer.');
+  $('#gformjoingo').prepend('Thank you for your willingness to be the feet of Jesus.');
   });
 </script>
