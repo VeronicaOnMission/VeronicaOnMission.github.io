@@ -14,7 +14,7 @@ Let us agree to bring the news of Jesus Christ and Him crucified in unity throug
 {% endcapture %}
 
 <div class="notice--info">
-  <h4 class="no_toc">There is one body and one Spirit, just as you were called in one hope of your calling; one Lord, one faith, one baptism; one God and Father of all, who is above all, and through all, and in you all. <i>Ephesians 4:4-6</i></h4>
+  <h4 class="no_toc">There is one body and one Spirit, just as you were called in one hope of your calling; one Lord, one faith, one baptism; one God and Father of all, who is above all, and through all, and in you all.<i>Ephesians 4:4-6</i><br></h4>
   {{ statementlink | markdownify }}
 </div>
 
