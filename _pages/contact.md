@@ -20,7 +20,7 @@ author_profile: true
 <script src="/assets/js/main.min.js"></script>
 <script type="text/javascript">var submitted=false;</script>
 <script type="text/javascript">
-  $('#gformprayer').on('submitprayer', function(e) {
+  $('#gformprayer').on('submit', function(e) {
   $('#gformprayer *').fadeOut(2000);
   $('#gformprayer').prepend('Thank you for your willingness to ask for prayer.');
   });
@@ -42,7 +42,7 @@ author_profile: true
 <script src="/assets/js/main.min.js"></script>
 <script type="text/javascript">var submitted=false;</script>
 <script type="text/javascript">
-$('#gformconnect').on('submitconnect', function(e) {
+$('#gformconnect').on('submit', function(e) {
   $('#gformconnect *').fadeOut(2000);
   $('#gformconnect').prepend('Thank you for reaching out, your information has been submitted... :D');
   });
