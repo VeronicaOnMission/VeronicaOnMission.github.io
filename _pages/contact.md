@@ -27,12 +27,12 @@ author_profile: true
 </script>
 
 ## Connect
-<form name="gformcontact" id="gformcontact" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSeQZHbJYkdtSrCMRMuc1LDtKgmrR6Jfol1KUzdZRjIIbIzQMQ/formResponse?" target="hidden_iframecontact" onsubmit="submitted=true;">
+<form name="gformconnect" id="gformconnect" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSe2TSXbJHXWlGEMh7DaDqQknK_qT4r7ozaiec5hn6-6DYTqvQ/formResponse?" target="hidden_iframecontact" onsubmit="submitted=true;">
   <fieldset>
     <legend>You can contact me via social media platforms on the sidebar or footer. This web form is also available for convenience. Please allow 1-2 days for a response.</legend>
-    Name: <input type="text" size="30" name="entry.1166045863"><br>
-    Email: <input type="text" size="30" name="entry.720425147"><br>
-    Message: <textarea name="entry.220754968"></textarea>
+    Name: <input type="text" size="30" name="entry.1764945982"><br>
+    Email: <input type="text" size="30" name="entry.147314099"><br>
+    Message: <textarea name="entry.966876538"></textarea>
 	<input type="submit" name='submit' value="Submit Form">
   </fieldset>
 </form>
@@ -42,8 +42,8 @@ author_profile: true
 <script src="/assets/js/main.min.js"></script>
 <script type="text/javascript">var submitted=false;</script>
 <script type="text/javascript">
-$('#gformcontact').on('submit', function(e) {
-  $('#gformcontact *').fadeOut(2000);
-  $('#gformcontact').prepend('Thank you for reaching out, your information has been submitted... :D');
+$('#gformconnect').on('submit', function(e) {
+  $('#gformconnect *').fadeOut(2000);
+  $('#gformconnect').prepend('Thank you for reaching out, your information has been submitted... :D');
   });
 </script>
