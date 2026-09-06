@@ -21,17 +21,13 @@ Let us agree to bring the news of Jesus Christ and Him crucified in unity of the
   {{ statementlink | markdownify }}
 </div>
 
-[Statement of Faith](/statementoffaith/){: .btn .btn--info}
-
 <a href="/statementoffaith/" target="_blank" class="btn btn--info">Statement of Faith</a>
-
-<a href="https://paypal.me/veronicadconner" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/paypal.png" height="32" width="137" /></a>
 
 ## Testimony and Information
 Please keep your testimony within 5-10 sentences total.<br>
 
 <b>Before Jesus</b> What was  your life like before coming to Jesus?<br>
-<b>Meeting Jesus</b> Who brought you to Jesus? How did your circumstances (outlook?) change?<br>
+<b>Meeting Jesus</b> Who brought you to Jesus? How did your circumstances change?<br>
 <b>After Jesus</b> What is your life like now? How has life changed since coming to Jesus?<br>
 
 <form name="gformjoingo" id="gformjoingo" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSfwJqQt_s8wgBBbaAUrLrzfURXEIcYozZYamWbfIu1lMwgUhQ/formResponse?" target="hidden_iframejoingo" onsubmit="submitted=true;">
